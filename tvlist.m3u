@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",All the K-POP
-https://www.youtube.com/embed/NIknv-A4CiE
 #EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",CGNTV South Korea
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 #EXTINF:-1 tvg-id="ChannelA.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Channel A
@@ -29,8 +27,8 @@ https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="KBS24.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS News
-https://www.youtube.com/embed/M1WrMEUOBsU
+#EXTINF:-1 tvg-id="KBS24.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS 24
+https://stream1.freetv.fun/kbs-24-1.ctv
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 tvg-id="KBSJoy.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Joy
@@ -51,8 +49,6 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC Gangwon (MBC 강원영동)
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC News
-https://www.youtube.com/embed/q9bM12ucTIY
 #EXTINF:-1 tvg-id="NBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NHTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",NHTV
@@ -61,8 +57,6 @@ http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OUN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Pororo
-https://www.youtube.com/embed/dVPYwyyDeac
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS
 http://www.hwado.net/webtv/catv/502_76142D8F.php
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS CJB
@@ -77,45 +71,14 @@ http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
-#EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Running Man
-https://www.youtube.com/embed/lDcWeklf6DI
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",The K-POP
-https://www.youtube.com/embed/JVocS7Yftw8
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",The K-POP2
-https://www.youtube.com/embed/8fHegYsHwZQ
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",THE 트롯 보라고
-https://www.youtube.com/embed/CMnAakQCEdM
 #EXTINF:-1 tvg-id="TVChosun.kr" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun 2
-#EXTINF:-1 tvg-id="TVChosun.kr" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun Joy
-https://www.youtube.com/embed/Swdqg7nuyFA
-#EXTINF:-1 tvg-id="TVChosun.kr" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun Music
-https://www.youtube.com/embed/O2C-ae2isn0
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",WBC TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Yonhap News
-https://www.youtube.com/embed/6QZ_qc75ihU
 #EXTINF:-1 tvg-id="YTN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",YTN
-https://www.youtube.com/embed/FJfwehhzIhw
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",디글클래식
-https://www.youtube.com/embed/H3uur6g_9CA
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",매일경제 TV
-https://www.youtube.com/embed/s9xL1DpBsfQ
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",서울경제 TV
-https://www.youtube.com/embed/ACLfq550lOI
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",어서와 한국은 처음이지
-https://www.youtube.com/embed/yjGtbV1N1yo
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",연합뉴스경제 TV
-https://www.youtube.com/embed/yhpbioCP6nA
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",이데일리 TV
-https://www.youtube.com/embed/5cFoz90FUMk
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",토마토TV
-https://www.youtube.com/embed/4Jb9UylGniU
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",토마토리빙
-https://www.youtube.com/embed/ZZyQLxJVNnQ
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",한국경제TV
-https://www.youtube.com/embed/NJUjU9ALj4A
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",헬로tv X 더라이프 - 노래자랑
-https://www.youtube.com/embed/SRE4ohZp9t0
+https://stream1.freetv.fun/4bf3627bd4383e6e01244b1d375e7e068a4579eb2a19eb376fdeb6c9ad8adf60.ctv
