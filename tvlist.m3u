@@ -55,8 +55,6 @@ http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OUN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS
-http://www.hwado.net/webtv/catv/502_76142D8F.php
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCGDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS G1
