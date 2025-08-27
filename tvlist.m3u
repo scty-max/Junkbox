@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",All the K-POP
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756280598/ei/tmKuaPr4LZLnxN8PhdDgmAs/ip/92.205.3.32/id/NIknv-A4CiE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51569636/txs/51569633%2C51569634%2C51569635%2C51569636%2C51569637%2C51569638%2C51569639/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMMkxTefdXohAO96IkzxepQQAKMSGYChZLbZtcnmdv_IfloFxXoM51Ekta_OP1YhVn_gvBa3ooD/spc/l3OVKQWW2XzKFrYAqoAaQFtpjcuWEA_ZiOPUVczTGSKksN95TnQRXzlrhwV1AvoNkBq2K1c2-xU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPw1T6lejY--3pTYT_K_6bDlfxIZQRCFdPwo-KkS3MSxAiEAroIR8btHE4HjOpCGzp3162il-frtJxtGWP6_F1_EqsY%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",CGNTV South Korea
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 #EXTINF:-1 tvg-id="ChannelA.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Channel A
@@ -17,10 +19,6 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS+ 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="GugakTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",GugakTV 국악방송
-https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Gugbang TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",JCN TV
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS 1TV
@@ -45,9 +43,9 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC Daejeon (대전 MBC)
+#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC Daejeon
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC Gangwon (MBC 강원영동)
+#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC Gangwon
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="NBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
