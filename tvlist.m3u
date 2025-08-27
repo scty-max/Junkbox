@@ -71,6 +71,8 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TvN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TvN Show
+https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
 #EXTINF:-1 tvg-id="TVChosun.kr" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun 2
