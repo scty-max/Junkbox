@@ -43,8 +43,8 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC Daejeon
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC Gangwon
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="NBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",NBS Korea Agricultural Broadcasting
