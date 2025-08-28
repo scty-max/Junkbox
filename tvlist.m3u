@@ -3,8 +3,6 @@
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",CGNTV South Korea
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
-#EXTINF:-1 tvg-id="ChannelA.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Channel A
-http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 2
@@ -19,6 +17,12 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",JCN TV
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Korea
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8e7fd5098bd06f0743b7.m3u8?uid=scty-max&pkey=V9fpUdMX
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",KBS News
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f325bda46552a55a1c5.m3u8?uid=scty-max&pkey=V9fpUdMX
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",KBS News 24
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/681243d3c4027c3e99be8f05.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS 2TV
@@ -37,10 +41,12 @@ http://mytv.dothome.co.kr/ch/catv/5.php
 http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1 tvg-id="KCTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KCTV 광주 CH05
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KCTV 광주
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",MBC News
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68409f7f87beaece857bc4e2.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC SD
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC HD
@@ -51,10 +57,12 @@ http://mytv.dothome.co.kr/ch/catv/54.php
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NHTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",OBS Gyeongin TV (OBS경인TV)
+#EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",OBS경인TV
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OUN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8fb2d5098bd06f0743b8.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCGDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS G1
@@ -80,23 +88,14 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",WBC TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS News
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f325bda46552a55a1c5.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Korea
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8e7fd5098bd06f0743b7.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS News 24
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/681243d3c4027c3e99be8f05.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8fb2d5098bd06f0743b8.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC News
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68409f7f87beaece857bc4e2.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Yonhapnews TV
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",Yonhapnews TV
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f065bda46552a55a1c4.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",YTN
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",YTN News
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/67ff92ff8456e969e2fbb934.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",THE K-POP
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f885bda46552a55a1c6.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", the k-pop2 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af94b9ea7600195b375dc7.m3u8?uid=scty-max&pkey=V9fpUdMX
+#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",the K-POP2
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af94b9ea7600195b375dc7.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",All the K-POP
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9516640c78c4fe22828a.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",THE 트롯 보라고
@@ -105,13 +104,13 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af95e0f7de788d8bffd856.m3u
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9624a48fd514baa8b9d7.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun Music
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9658f0c31298a6bd52da.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",매일경제 TV
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",매일경제 TV
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af96d3317b0e513b332e90.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",서울경제 TV
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",서울경제 TV
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af96f073052a72805634bc.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",어서와 한국은 처음이지
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9746f7de788d8bffd857.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",연합뉴스경제 TV
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",연합뉴스경제 TV
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9770f7de788d8bffd858.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",이데일리 TV
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af979475b2a9454d783648.m3u8?uid=scty-max&pkey=V9fpUdMX
@@ -119,7 +118,7 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af979475b2a9454d783648.m3u
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af97b6a48fd514baa8b9d8.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",토마토리빙
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af98084f7cb66f34d462e0.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",한국경제TV
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",한국경제TV
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9825317b0e513b332e91.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",뽀로로 LIVE
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af98f7317b0e513b332e92.m3u8?uid=scty-max&pkey=V9fpUdMX
