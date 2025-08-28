@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",CGN TV
-https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 2
@@ -53,8 +51,6 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1 tvg-id="NBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NHTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",NHTV
-http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",OBS경인TV
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OUN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",OUN
