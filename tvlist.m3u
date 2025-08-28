@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",翡翠台
+https://www.radartv.in/ompd/jade/playlist.m3u8?t=1756381327&token=08f09b9a8c284fd16f4b6e635a63db93
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",無線新聞台
+https://www.radartv.in/ompd/inews/playlist.m3u8?t=1756381475&token=4eda011f2896d7014ea698c61afbb6fd
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",J2
+https://www.radartv.in/4987/j2_twn/playlist.m3u8?t=1756381894&token=200fd7b362e5351be0229fde9cb009b8
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 1
