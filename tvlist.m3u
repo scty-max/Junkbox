@@ -76,8 +76,8 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun 2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",tvN Now
-http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",tvN
+https://everylive.space/live/tvn/livestream.m3u8
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",WBC TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",Yonhapnews TV
