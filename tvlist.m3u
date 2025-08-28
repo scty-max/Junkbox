@@ -43,10 +43,20 @@ http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",MBC News
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68409f7f87beaece857bc4e2.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC SD
+#EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Undefined",MBC Chuncheon 춘천
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="Undefined",MBC Chungbuk 충북
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCTDTV.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="Undefined",MBC Daegu 대구
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="Undefined",MBC Daejeon 대전
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAJDTV.kr" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="Undefined",MBC Jeju 제주
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="Undefined",MBC Mokpo 목포
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBC HD
-http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="HLATDTV.kr" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="Undefined",MBC Yeosu 여수
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1 tvg-id="NBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",NBS Korea Agricultural Broadcasting
