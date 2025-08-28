@@ -27,10 +27,14 @@ http://mytv.dothome.co.kr/ch/catv/2.php
 http://mytv.dothome.co.kr/ch/catv/3.php
 #EXTINF:-1 tvg-id="KBSKids.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Kids
 http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-id="KBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Korea
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8e7fd5098bd06f0743b7.m3u8?uid=scty-max&pkey=V9fpUdMX #EXTINF
 #EXTINF:-1 tvg-id="KBSLife.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Life
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 tvg-id="KBSStory.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Story
 http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="KBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Vibing with K-POP
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68b061194f7cb66f34d462e2.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KCTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KCTV 광주
