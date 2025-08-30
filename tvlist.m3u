@@ -4,13 +4,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",無線新聞
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB Plus
-http://php.jdshipin.com:8880/smt.php?id=j2_twn
+https://stream1.freetv.fun/dec5e1d162ddc4e733fb714c2c8795323ccf94261596cffe7ee65f0034986c70.ctv
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",HoyTV 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",Viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",ViuT V6
-http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",美亞 C PLUS
+https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075affd912ca6e.m3u8
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 1
