@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="Korean" group-title="香港/HK",TVB
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 1
