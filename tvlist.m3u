@@ -27,8 +27,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",香港電臺32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",美亞 C PLUS
-https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075affd912ca6e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",PopC
 http://iptv.4666888.xyz/iptv.php?id=20118
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",tvN
