@@ -1,12 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW新聞
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW爆谷台
+http://iptv.4666888.xyz/iptv.php?id=20087
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB無線新聞
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB娛樂新聞台
-https://stream1.freetv.fun/9f3cc38c6035c8df21a7055aca8d449b14238eb1d6d3a5fb1d41cc47e2f4785f.ctv
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB生活台
+http://iptv.4666888.xyz/iptv.php?id=20074
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",千禧經典
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB Plus
-https://stream1.freetv.fun/dec5e1d162ddc4e733fb714c2c8795323ccf94261596cffe7ee65f0034986c70.ctv
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB Drama
+https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",HoyTV 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",Viu TV
@@ -17,6 +29,12 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",美亞 C PLUS
 https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075affd912ca6e.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",PopC
+http://iptv.4666888.xyz/iptv.php?id=20118
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",tvN
+http://iptv.4666888.xyz/iptv.php?id=20250
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",鳳凰香港
+http://iptv.4666888.xyz/iptv.php?id=20060
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 1
@@ -45,8 +63,6 @@ http://mytv.dothome.co.kr/ch/catv/2.php
 http://mytv.dothome.co.kr/ch/catv/3.php
 #EXTINF:-1 tvg-id="KBSKids.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Kids
 http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 tvg-id="KBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Korea
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8e7fd5098bd06f0743b7.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBSLife.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Life
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 tvg-id="KBSStory.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS Story
@@ -93,7 +109,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",tvN
-https://everylive.space/live/tvn/livestream.m3u8
+http://smart.cityq.xyz:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",WBC TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",Yonhapnews TV
@@ -121,7 +137,7 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9770f7de788d8bffd858.m3u
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",이데일리 TV
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af979475b2a9454d783648.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",토마토TV
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af97b6a48fd514baa8b9d8.m3u8?uid=scty-max&pkey=V9fpUdMX
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68baf36913fdd796a3319278.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",토마토리빙
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af98084f7cb66f34d462e0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
@@ -833,71 +849,71 @@ https://tvpass.org/live/WPIX/hd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network HD" group-title="美國/US",Yes Network HD
 https://tvpass.org/live/yes-network/hd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Nationals @ New York Yankees (08/27 1:06 PM ET) SD" group-title="MLB",Washington Nationals @ New York Yankees (08/27 1:06 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Washington Nationals @ New York Yankees (08/27 1:06 PM ET) SD" group-title="美國/US",Washington Nationals @ New York Yankees (08/27 1:06 PM ET) SD
 https://tvpass.org/live/mlb-15/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Nationals @ New York Yankees (08/27 1:06 PM ET) HD" group-title="MLB",Washington Nationals @ New York Yankees (08/27 1:06 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Washington Nationals @ New York Yankees (08/27 1:06 PM ET) HD" group-title="美國/US",Washington Nationals @ New York Yankees (08/27 1:06 PM ET) HD
 https://tvpass.org/live/mlb-15/hd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves @ Miami Marlins (08/27 1:11 PM ET) SD" group-title="MLB",Atlanta Braves @ Miami Marlins (08/27 1:11 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves @ Miami Marlins (08/27 1:11 PM ET) SD" group-title="美國/US",Atlanta Braves @ Miami Marlins (08/27 1:11 PM ET) SD
 https://tvpass.org/live/mlb-07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves @ Miami Marlins (08/27 1:11 PM ET) HD" group-title="MLB",Atlanta Braves @ Miami Marlins (08/27 1:11 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves @ Miami Marlins (08/27 1:11 PM ET) HD" group-title="美國/US",Atlanta Braves @ Miami Marlins (08/27 1:11 PM ET) HD
 https://tvpass.org/live/mlb-07/hd
-#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Cleveland Guardians (08/27 1:11 PM ET) SD" group-title="MLB",Tampa Bay Rays @ Cleveland Guardians (08/27 1:11 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Cleveland Guardians (08/27 1:11 PM ET) SD" group-title="美國/US",Tampa Bay Rays @ Cleveland Guardians (08/27 1:11 PM ET) SD
 https://tvpass.org/live/mlb-30/sd
-#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Cleveland Guardians (08/27 1:11 PM ET) HD" group-title="MLB",Tampa Bay Rays @ Cleveland Guardians (08/27 1:11 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Cleveland Guardians (08/27 1:11 PM ET) HD" group-title="美國/US",Tampa Bay Rays @ Cleveland Guardians (08/27 1:11 PM ET) HD
 https://tvpass.org/live/mlb-30/hd
-#EXTINF:-1 tvg-id="" tvg-name="San Diego Padres @ Seattle Mariners (08/27 4:11 PM ET) SD" group-title="MLB",San Diego Padres @ Seattle Mariners (08/27 4:11 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="San Diego Padres @ Seattle Mariners (08/27 4:11 PM ET) SD" group-title="美國/US",San Diego Padres @ Seattle Mariners (08/27 4:11 PM ET) SD
 https://tvpass.org/live/mlb-10/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Diego Padres @ Seattle Mariners (08/27 4:11 PM ET) HD" group-title="MLB",San Diego Padres @ Seattle Mariners (08/27 4:11 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="San Diego Padres @ Seattle Mariners (08/27 4:11 PM ET) HD" group-title="美國/US",San Diego Padres @ Seattle Mariners (08/27 4:11 PM ET) HD
 https://tvpass.org/live/mlb-10/hd
-#EXTINF:-1 tvg-id="" tvg-name="Boston Red Sox @ Baltimore Orioles (08/27 6:36 PM ET) SD" group-title="MLB",Boston Red Sox @ Baltimore Orioles (08/27 6:36 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Boston Red Sox @ Baltimore Orioles (08/27 6:36 PM ET) SD" group-title="美國/US",Boston Red Sox @ Baltimore Orioles (08/27 6:36 PM ET) SD
 https://tvpass.org/live/mlb-17/sd
-#EXTINF:-1 tvg-id="" tvg-name="Boston Red Sox @ Baltimore Orioles (08/27 6:36 PM ET) HD" group-title="MLB",Boston Red Sox @ Baltimore Orioles (08/27 6:36 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Boston Red Sox @ Baltimore Orioles (08/27 6:36 PM ET) HD" group-title="美國/US",Boston Red Sox @ Baltimore Orioles (08/27 6:36 PM ET) HD
 https://tvpass.org/live/mlb-17/hd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Twins @ Toronto Blue Jays (08/27 7:08 PM ET) SD" group-title="MLB",Minnesota Twins @ Toronto Blue Jays (08/27 7:08 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Minnesota Twins @ Toronto Blue Jays (08/27 7:08 PM ET) SD" group-title="美國/US",Minnesota Twins @ Toronto Blue Jays (08/27 7:08 PM ET) SD
 https://tvpass.org/live/mlb-12/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Twins @ Toronto Blue Jays (08/27 7:08 PM ET) HD" group-title="MLB",Minnesota Twins @ Toronto Blue Jays (08/27 7:08 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Minnesota Twins @ Toronto Blue Jays (08/27 7:08 PM ET) HD" group-title="美國/US",Minnesota Twins @ Toronto Blue Jays (08/27 7:08 PM ET) HD
 https://tvpass.org/live/mlb-12/hd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Phillies @ New York Mets (08/27 7:11 PM ET) SD" group-title="MLB",Philadelphia Phillies @ New York Mets (08/27 7:11 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Phillies @ New York Mets (08/27 7:11 PM ET) SD" group-title="美國/US",Philadelphia Phillies @ New York Mets (08/27 7:11 PM ET) SD
 https://tvpass.org/live/mlb-24/sd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Phillies @ New York Mets (08/27 7:11 PM ET) HD" group-title="MLB",Philadelphia Phillies @ New York Mets (08/27 7:11 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Phillies @ New York Mets (08/27 7:11 PM ET) HD" group-title="美國/US",Philadelphia Phillies @ New York Mets (08/27 7:11 PM ET) HD
 https://tvpass.org/live/mlb-24/hd
-#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Aces @ Atlanta Dream (08/27 7:30 PM ET) SD" group-title="WNBA",Las Vegas Aces @ Atlanta Dream (08/27 7:30 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Aces @ Atlanta Dream (08/27 7:30 PM ET) SD" group-title="美國/US",Las Vegas Aces @ Atlanta Dream (08/27 7:30 PM ET) SD
 https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Aces @ Atlanta Dream (08/27 7:30 PM ET) HD" group-title="WNBA",Las Vegas Aces @ Atlanta Dream (08/27 7:30 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Aces @ Atlanta Dream (08/27 7:30 PM ET) HD" group-title="美國/US",Las Vegas Aces @ Atlanta Dream (08/27 7:30 PM ET) HD
 https://tvpass.org/live/NBATV/hd
-#EXTINF:-1 tvg-id="" tvg-name="Kansas City Royals @ Chicago White Sox (08/27 7:41 PM ET) SD" group-title="MLB",Kansas City Royals @ Chicago White Sox (08/27 7:41 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Kansas City Royals @ Chicago White Sox (08/27 7:41 PM ET) SD" group-title="美國/US",Kansas City Royals @ Chicago White Sox (08/27 7:41 PM ET) SD
 https://tvpass.org/live/mlb-03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Kansas City Royals @ Chicago White Sox (08/27 7:41 PM ET) HD" group-title="MLB",Kansas City Royals @ Chicago White Sox (08/27 7:41 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Kansas City Royals @ Chicago White Sox (08/27 7:41 PM ET) HD" group-title="美國/US",Kansas City Royals @ Chicago White Sox (08/27 7:41 PM ET) HD
 https://tvpass.org/live/mlb-03/hd
-#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Milwaukee Brewers (08/27 7:41 PM ET) SD" group-title="MLB",Arizona Diamondbacks @ Milwaukee Brewers (08/27 7:41 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Milwaukee Brewers (08/27 7:41 PM ET) SD" group-title="美國/US",Arizona Diamondbacks @ Milwaukee Brewers (08/27 7:41 PM ET) SD
 https://tvpass.org/live/mlb-16/sd
-#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Milwaukee Brewers (08/27 7:41 PM ET) HD" group-title="MLB",Arizona Diamondbacks @ Milwaukee Brewers (08/27 7:41 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Milwaukee Brewers (08/27 7:41 PM ET) HD" group-title="美國/US",Arizona Diamondbacks @ Milwaukee Brewers (08/27 7:41 PM ET) HD
 https://tvpass.org/live/mlb-16/hd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ St. Louis Cardinals (08/27 7:46 PM ET) SD" group-title="MLB",Pittsburgh Pirates @ St. Louis Cardinals (08/27 7:46 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ St. Louis Cardinals (08/27 7:46 PM ET) SD" group-title="美國/US",Pittsburgh Pirates @ St. Louis Cardinals (08/27 7:46 PM ET) SD
 https://tvpass.org/live/mlb-08/sd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ St. Louis Cardinals (08/27 7:46 PM ET) HD" group-title="MLB",Pittsburgh Pirates @ St. Louis Cardinals (08/27 7:46 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ St. Louis Cardinals (08/27 7:46 PM ET) HD" group-title="美國/US",Pittsburgh Pirates @ St. Louis Cardinals (08/27 7:46 PM ET) HD
 https://tvpass.org/live/mlb-08/hd
-#EXTINF:-1 tvg-id="" tvg-name="Connecticut Sun @ Dallas Wings (08/27 8:00 PM ET) SD" group-title="WNBA",Connecticut Sun @ Dallas Wings (08/27 8:00 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Connecticut Sun @ Dallas Wings (08/27 8:00 PM ET) SD" group-title="美國/US",Connecticut Sun @ Dallas Wings (08/27 8:00 PM ET) SD
 https://tvpass.org/live/WNBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Connecticut Sun @ Dallas Wings (08/27 8:00 PM ET) HD" group-title="WNBA",Connecticut Sun @ Dallas Wings (08/27 8:00 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Connecticut Sun @ Dallas Wings (08/27 8:00 PM ET) HD" group-title="美國/US",Connecticut Sun @ Dallas Wings (08/27 8:00 PM ET) HD
 https://tvpass.org/live/WNBA02/hd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Texas Rangers (08/27 8:06 PM ET) SD" group-title="MLB",Los Angeles Angels @ Texas Rangers (08/27 8:06 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Texas Rangers (08/27 8:06 PM ET) SD" group-title="美國/US",Los Angeles Angels @ Texas Rangers (08/27 8:06 PM ET) SD
 https://tvpass.org/live/mlb-13/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Texas Rangers (08/27 8:06 PM ET) HD" group-title="MLB",Los Angeles Angels @ Texas Rangers (08/27 8:06 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Texas Rangers (08/27 8:06 PM ET) HD" group-title="美國/US",Los Angeles Angels @ Texas Rangers (08/27 8:06 PM ET) HD
 https://tvpass.org/live/mlb-13/hd
-#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ Houston Astros (08/27 8:11 PM ET) SD" group-title="MLB",Colorado Rockies @ Houston Astros (08/27 8:11 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ Houston Astros (08/27 8:11 PM ET) SD" group-title="美國/US",Colorado Rockies @ Houston Astros (08/27 8:11 PM ET) SD
 https://tvpass.org/live/mlb-06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ Houston Astros (08/27 8:11 PM ET) HD" group-title="MLB",Colorado Rockies @ Houston Astros (08/27 8:11 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ Houston Astros (08/27 8:11 PM ET) HD" group-title="美國/US",Colorado Rockies @ Houston Astros (08/27 8:11 PM ET) HD
 https://tvpass.org/live/mlb-06/hd
-#EXTINF:-1 tvg-id="" tvg-name="Cincinnati Reds @ Los Angeles Dodgers (08/27 8:41 PM ET) SD" group-title="MLB",Cincinnati Reds @ Los Angeles Dodgers (08/27 8:41 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Cincinnati Reds @ Los Angeles Dodgers (08/27 8:41 PM ET) SD" group-title="美國/US",Cincinnati Reds @ Los Angeles Dodgers (08/27 8:41 PM ET) SD
 https://tvpass.org/live/mlb-14/sd
-#EXTINF:-1 tvg-id="" tvg-name="Cincinnati Reds @ Los Angeles Dodgers (08/27 8:41 PM ET) HD" group-title="MLB",Cincinnati Reds @ Los Angeles Dodgers (08/27 8:41 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Cincinnati Reds @ Los Angeles Dodgers (08/27 8:41 PM ET) HD" group-title="美國/US",Cincinnati Reds @ Los Angeles Dodgers (08/27 8:41 PM ET) HD
 https://tvpass.org/live/mlb-14/hd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs @ San Francisco Giants (08/27 9:46 PM ET) SD" group-title="MLB",Chicago Cubs @ San Francisco Giants (08/27 9:46 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs @ San Francisco Giants (08/27 9:46 PM ET) SD" group-title="美國/US",Chicago Cubs @ San Francisco Giants (08/27 9:46 PM ET) SD
 https://tvpass.org/live/mlb-27/sd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs @ San Francisco Giants (08/27 9:46 PM ET) HD" group-title="MLB",Chicago Cubs @ San Francisco Giants (08/27 9:46 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs @ San Francisco Giants (08/27 9:46 PM ET) HD" group-title="美國/US",Chicago Cubs @ San Francisco Giants (08/27 9:46 PM ET) HD
 https://tvpass.org/live/mlb-27/hd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ Oakland Athletics (08/27 10:06 PM ET) SD" group-title="MLB",Detroit Tigers @ Oakland Athletics (08/27 10:06 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ Oakland Athletics (08/27 10:06 PM ET) SD" group-title="美國/US",Detroit Tigers @ Oakland Athletics (08/27 10:06 PM ET) SD
 https://tvpass.org/live/mlb-19/sd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ Oakland Athletics (08/27 10:06 PM ET) HD" group-title="MLB",Detroit Tigers @ Oakland Athletics (08/27 10:06 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ Oakland Athletics (08/27 10:06 PM ET) HD" group-title="美國/US",Detroit Tigers @ Oakland Athletics (08/27 10:06 PM ET) HD
 https://tvpass.org/live/mlb-19/hd
