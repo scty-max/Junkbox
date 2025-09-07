@@ -80,9 +80,11 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",MBC News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68409f7f87beaece857bc4e2.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="韓國/Korea",MBC
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1358751232.m3u8
 #EXTINF:-1 tvg-id="MBN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
+#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Mnet
+https://everylive.space/live/mnet/livestream.m3u8?hls_ctx=bv4f54gi
 #EXTINF:-1 tvg-id="NBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",OBS경인TV
@@ -119,7 +121,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",tvN
-http://smart.cityq.xyz:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
+https://everylive.space/live/tvn/livestream.m3u8?hls_ctx=73bt7e9c
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",WBC TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",Yonhapnews TV
