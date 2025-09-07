@@ -94,15 +94,15 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Biz
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=6%2Csd%2Cl&auth=bbe5468c50615de5c38bb07ce782d289199245eae1d
+https://p.skypeak.cloud/stream.m3u8?type=s&id=6%2Csd%2Cl&auth=dc2e93da26f13bf88c6ee321ab5df07b19926574597
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68b05ad073052a72805634c0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS funE
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=4%2Csd%2Cl&auth=f20bf14e22b10b299792c20280c0e9b719923e831e7
+https://p.skypeak.cloud/stream.m3u8?type=s&id=4%2Csd%2Cl&auth=4fd630b179cab0c249035d76cb2cc7b819926557494
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Life
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=11%2Csd%2Cl&auth=69a9400b637de899274cf234fee535e019923e7d559
+https://p.skypeak.cloud/stream.m3u8?type=s&id=11%2Csd%2Cl&auth=fbcfed71e4e351d0e5bbf59d735d8daa19926568b31
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Plus
-https://p.skypeak.cloud/stream.m3u8?type=s&id=3%2Csd%2Cl&auth=7f6b7a27799ca52577242264a724dc8619923e77337
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=3%2Csd%2Cl&auth=e98de24291ed9110bfe0f5a9654dc1a81992656fc40
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun
@@ -118,6 +118,10 @@ https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/pl
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f065bda46552a55a1c4.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",YTN News
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/67ff92ff8456e969e2fbb934.m3u8?uid=scty-max&pkey=V9fpUdMX
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",YTN2
+https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",YTN Science
+https://sciencelive.ytn.co.kr/science/_definst_/20211118_science/medialist_9171188557012390620_hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",THE K-POP
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f885bda46552a55a1c6.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",THE K-POP2
