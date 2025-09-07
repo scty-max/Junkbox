@@ -94,7 +94,7 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Biz
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=4%2Csd%2Cl&auth=b2e8afa31a8496b572f8893ed74385f819923e46472
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=6%2Csd%2Cl&auth=bbe5468c50615de5c38bb07ce782d289199245eae1d
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68b05ad073052a72805634c0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS funE
