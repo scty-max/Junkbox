@@ -36,7 +36,7 @@ http://iptv.4666888.xyz/iptv.php?id=20250
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Channel A
-https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NTczOTMxMzd9.a02htjREW_FiLIIit9DBb02DDSrWnzS3RWREaXU8Al8
+http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 2
