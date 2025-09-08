@@ -52,9 +52,9 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Jtbc
-https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzM2NDQ0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Ds0CHBnhqQttH-g0UkCauieB45q9dTqBAMNFtf35t-rBgIEHNGUMSefNR5CZz24cmdtuPiA2o68lMl06qBUOsI4zkQN8F8T~wGLiGbkvAuePUJKkX3KaMeck59Q13UxWrP3YZ1wFra42xpPBL646zIK6DE6oTFAwgTazpXJThig_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68be5705212b89561d0ab9ae.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",KBS News 24
-https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1757494803&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3NDk0ODAzfX19XX0_&Signature=RR74gDjLdhobUn5AUUnrIt7XGmT68JTMeacwYrzNOZYHyhbgtRopnRXXidLeJdd9H2TiOKAQfaTMbvd3EIdD8EjMda0WNoxyfi6LhAQuvGxQRdLNIfzkt1oIduf5ZCujUsoOaUnj-Ah8Q5SV3e1HIAB~aZUKQn~G7ftYA8T2zlyTl8ITA1E3e38N2OiCj2guZN~oR7yd-FatxkPYoSH3zVcF~sGXcmPaxebd6afM16OCA1E453gitrWVeeZti-UBTAQqmYqcEz7BLmiNPsEOT0zFdbLhpvhIQdjT4b08soGMjxRdpU9h-e0nqVEr6~N8nJEksBMYEnOC0oaFOLGMvQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/681243d3c4027c3e99be8f05.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS 1
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS 2
