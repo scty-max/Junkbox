@@ -93,16 +93,8 @@ https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Biz
-https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTczMjUxOTEsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxMzQ4ZjFmYi02NzE3LTQxYTgtODBlOS01Mzk4NTdjNGM1OTciLCJpYXQiOjE3NTczMTc5OTF9.UenVFEdEEpRKze59hhYeR-RcYcFkf3CPap-K7icabBI&solsessionid=81a478f5c214bc8dbeeaa7ededb92257
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68b05ad073052a72805634c0.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS funE
-https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTczMjQ5MzUsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImQxOWU2MDJkLWY4YTQtNDEwNy1hOTY1LWJmYzAyYjU3ZTllMCIsImlhdCI6MTc1NzMxNzczNX0.GX55nGslPkuv2DZSyKQER-ccz6zZoMr0cSmIFd8qwLc&solsessionid=35f2bfa2b6d63f2e05398bac3ba2c949
-#EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Life
-https://tvlive.sbs.co.kr/sbsfil/sbsfil2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTczMjUxMjcsInBhdGgiOiIvc2JzZmlsMi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImEyZWU5YjE4LTU4Y2UtNDA3My05NGEyLTdlMDdkYTgyOWUxNCIsImlhdCI6MTc1NzMxNzkyN30.SvSaqtr46CipePoHNHaRN5tr1BdyhyMAAQLHcgZ7tnA&solsessionid=198b000ccfdfa7f0f111b48f0e3bd088
-#EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Plus
-https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTczMjgyMjUsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJkMzBkNDI1MS1iNGQ5LTQ5MzMtOWUxMC0wMTI5NzIxMTk4NGIiLCJpYXQiOjE3NTczMjEwMjV9.DA4bKbOiOg0zcM4hA5N88pOL5PPCyf_t4rqs463VsdI
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun
