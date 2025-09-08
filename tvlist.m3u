@@ -102,7 +102,7 @@ https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/chunklist.m3u8?token=eyJ0eXAiOi
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Life
 https://tvlive.sbs.co.kr/sbsfil/sbsfil2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTczMjUxMjcsInBhdGgiOiIvc2JzZmlsMi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImEyZWU5YjE4LTU4Y2UtNDA3My05NGEyLTdlMDdkYTgyOWUxNCIsImlhdCI6MTc1NzMxNzkyN30.SvSaqtr46CipePoHNHaRN5tr1BdyhyMAAQLHcgZ7tnA&solsessionid=198b000ccfdfa7f0f111b48f0e3bd088
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Plus
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=3%2Csd%2Cl&auth=5eea1133d74da01fa52fd15c232d571119927ce2f69
+https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTczMjgyMjUsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJkMzBkNDI1MS1iNGQ5LTQ5MzMtOWUxMC0wMTI5NzIxMTk4NGIiLCJpYXQiOjE3NTczMjEwMjV9.DA4bKbOiOg0zcM4hA5N88pOL5PPCyf_t4rqs463VsdI
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun
