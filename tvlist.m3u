@@ -94,15 +94,15 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Biz
-https://p.skypeak.cloud/stream.m3u8?type=s&id=6%2Csd%2Cl&auth=dc2e93da26f13bf88c6ee321ab5df07b19926574597
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=6%2Csd%2Cl&auth=77863dce8c6333b18031f29bb3ed967e19927cd28b8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68b05ad073052a72805634c0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS funE
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68be33a932d4b33109a320c9.m3u8?uid=scty-max&pkey=V9fpUdMX
+https://p.skypeak.cloud/stream.m3u8?type=s&id=4%2Csd%2Cl&auth=28bc2ee34b3edd2781dd9f6a377b203e19927ce8fbf
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Life
-https://p.skypeak.cloud/stream.m3u8?type=s&id=11%2Csd%2Cl&auth=fbcfed71e4e351d0e5bbf59d735d8daa19926568b31
+https://p.skypeak.cloud/stream.m3u8?type=s&id=11%2Csd%2Cl&auth=9b6200b57171ecf51b209b3a9b0661c519927cdb7bd
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Plus
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=3%2Csd%2Cl&auth=e98de24291ed9110bfe0f5a9654dc1a81992656fc40
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=3%2Csd%2Cl&auth=5eea1133d74da01fa52fd15c232d571119927ce2f69
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TV Chosun
