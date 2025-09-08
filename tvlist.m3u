@@ -35,8 +35,6 @@ http://iptv.4666888.xyz/iptv.php?id=20118
 http://iptv.4666888.xyz/iptv.php?id=20250
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Channel A
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68bed52932d4b33109a320cb.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 2
@@ -51,8 +49,6 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",Jtbc
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68be5705212b89561d0ab9ae.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",KBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/681243d3c4027c3e99be8f05.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",KBS 1
@@ -93,12 +89,6 @@ https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS funE
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68be33a932d4b33109a320c9.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="SBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Life
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68bed793ad28d7907f4dadab.m3u8?uid=scty-max&pkey=V9fpUdMX
-#EXTINF:-1 tvg-id="SBS.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Plus
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68bed5b86a87b6f9f80ffb6a.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68b05ad073052a72805634c0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TBS Seoul
