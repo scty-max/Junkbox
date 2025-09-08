@@ -94,13 +94,13 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Biz
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=6%2Csd%2Cl&auth=77863dce8c6333b18031f29bb3ed967e19927cd28b8
+https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTczMjUxOTEsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxMzQ4ZjFmYi02NzE3LTQxYTgtODBlOS01Mzk4NTdjNGM1OTciLCJpYXQiOjE3NTczMTc5OTF9.UenVFEdEEpRKze59hhYeR-RcYcFkf3CPap-K7icabBI&solsessionid=81a478f5c214bc8dbeeaa7ededb92257
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68b05ad073052a72805634c0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS funE
 https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTczMjQ5MzUsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImQxOWU2MDJkLWY4YTQtNDEwNy1hOTY1LWJmYzAyYjU3ZTllMCIsImlhdCI6MTc1NzMxNzczNX0.GX55nGslPkuv2DZSyKQER-ccz6zZoMr0cSmIFd8qwLc&solsessionid=35f2bfa2b6d63f2e05398bac3ba2c949
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Life
-https://p.skypeak.cloud/stream.m3u8?type=s&id=11%2Csd%2Cl&auth=9b6200b57171ecf51b209b3a9b0661c519927cdb7bd
+https://tvlive.sbs.co.kr/sbsfil/sbsfil2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTczMjUxMjcsInBhdGgiOiIvc2JzZmlsMi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImEyZWU5YjE4LTU4Y2UtNDA3My05NGEyLTdlMDdkYTgyOWUxNCIsImlhdCI6MTc1NzMxNzkyN30.SvSaqtr46CipePoHNHaRN5tr1BdyhyMAAQLHcgZ7tnA&solsessionid=198b000ccfdfa7f0f111b48f0e3bd088
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",SBS Plus
 https://p2.skypeak.cloud/stream.m3u8?type=s&id=3%2Csd%2Cl&auth=5eea1133d74da01fa52fd15c232d571119927ce2f69
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",TBS Seoul
