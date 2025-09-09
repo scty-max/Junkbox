@@ -30,7 +30,7 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",香港電臺32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",PopC
-http://iptv.4666888.xyz/iptv.php?id=20118
+https://live.tvfix.org/live/popc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",tvN
 http://iptv.4666888.xyz/iptv.php?id=20250
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
