@@ -1,8 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW 新聞
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW新聞
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW 爆谷台
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW爆谷台
 http://iptv.4666888.xyz/iptv.php?id=20087
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW星影台
+http://iptv.4666888.xyz/iptv.php?id=20086
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",Viu頻道
+http://iptv.4666888.xyz/iptv.php?id=20091
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW Sports 1
+http://iptv.4666888.xyz/iptv.php?id=20092
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW Sports 2
+http://iptv.4666888.xyz/iptv.php?id=20093
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW Sports 3
+http://iptv.4666888.xyz/iptv.php?id=20084
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB無線新聞
@@ -21,12 +31,16 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB Drama
 https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",HoyTV 76
+http://iptv.4666888.xyz/iptv.php?id=20077
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",HoyTV 77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+http://iptv.4666888.xyz/iptv.php?id=20078
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",HoyTV 78
+http://iptv.4666888.xyz/iptv.php?id=20079
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",Viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",香港電臺31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+http://iptv.4666888.xyz/iptv.php?id=20080
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",香港電臺32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",PopC
