@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW新聞
-https://stream.iptv-search.com/iptv_test/main.php?id=HOY78&t=1757403106&token=ad9932c1b7785adfbfa8f8b73f23ddec
-#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW爆谷台
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW 新聞
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW 爆谷台
 http://iptv.4666888.xyz/iptv.php?id=20087
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
