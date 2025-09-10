@@ -27,12 +27,8 @@ http://iptv.4666888.xyz/iptv.php?id=20074
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB千禧經典
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB北美
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB J1
-http://iptv.4666888.xyz/iptv.php?id=20096
-#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB e
-http://iptv.4666888.xyz/iptv.php?id=20097
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB Pearl Drama
 http://iptv.4666888.xyz/iptv.php?id=20098
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB Plus
@@ -59,6 +55,18 @@ http://iptv.4666888.xyz/iptv.php?id=20116
 https://live.tvfix.org/live/popc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",tvN
 http://iptv.4666888.xyz/iptv.php?id=20250
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳視澳門
+http://iptv.4666888.xyz/iptv.php?id=20127
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳門Macau
+http://iptv.4666888.xyz/iptv.php?id=20128
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳視資訊
+http://iptv.4666888.xyz/iptv.php?id=20129
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳門蓮花
+http://iptv.4666888.xyz/iptv.php?id=20130
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳門體育
+http://iptv.4666888.xyz/iptv.php?id=20131
+#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳門綜藝
+http://iptv.4666888.xyz/iptv.php?id=20132
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="韓國/Korea" tvg-language="Korean" group-title="韓國/Korea",EBS 1
