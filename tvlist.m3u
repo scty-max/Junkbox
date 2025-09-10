@@ -7,6 +7,8 @@ http://iptv.4666888.xyz/iptv.php?id=20087
 http://iptv.4666888.xyz/iptv.php?id=20086
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",Now華劇台
 http://iptv.4666888.xyz/iptv.php?id=20091
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",黃金華劇台
+http://iptv.4666888.xyz/iptv.php?id=20100
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW Sports 1
 http://iptv.4666888.xyz/iptv.php?id=20092
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",NOW Sports 2
@@ -27,6 +29,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB北美
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB J1
+http://iptv.4666888.xyz/iptv.php?id=20096
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB e
+http://iptv.4666888.xyz/iptv.php?id=20097
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB Pearl Drama
+http://iptv.4666888.xyz/iptv.php?id=20098
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",TVB Drama
@@ -43,6 +51,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 http://iptv.4666888.xyz/iptv.php?id=20080
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",香港電臺32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",美亞電影台
+http://iptv.4666888.xyz/iptv.php?id=20120
+#EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",天映頻道
+http://iptv.4666888.xyz/iptv.php?id=20116
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",PopC
 https://live.tvfix.org/live/popc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="香港/HK" tvg-language="" group-title="香港/HK",tvN
