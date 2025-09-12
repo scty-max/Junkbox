@@ -1,7 +1,10 @@
 #EXTM3U
-http://iptv.4666888.xyz/iptv.php?id=20147,1
-http://iptv.4666888.xyz/iptv.php?id=20148,2
-http://iptv.4666888.xyz/iptv.php?id=20149,3
+#EXTINF:,1
+http://iptv.4666888.xyz/iptv.php?id=20147
+#EXTINF:,2
+http://iptv.4666888.xyz/iptv.php?id=20148
+#EXTINF:,3
+http://iptv.4666888.xyz/iptv.php?id=20149
 http://iptv.4666888.xyz/iptv.php?id=20150,4
 http://iptv.4666888.xyz/iptv.php?id=20151,5
 http://iptv.4666888.xyz/iptv.php?id=20152,6
@@ -20,3 +23,4 @@ http://iptv.4666888.xyz/iptv.php?id=20164,18
 http://iptv.4666888.xyz/iptv.php?id=20165,19
 http://iptv.4666888.xyz/iptv.php?id=20166,20
 http://iptv.4666888.xyz/iptv.php?id=20167,21
+
