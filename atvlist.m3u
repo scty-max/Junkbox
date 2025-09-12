@@ -1,27 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",1
 http://iptv.4666888.xyz/iptv.php?id=20147
-#EXTINF:,2
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",2
 http://iptv.4666888.xyz/iptv.php?id=20148
-#EXTINF:,3
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",3
 http://iptv.4666888.xyz/iptv.php?id=20149
-http://iptv.4666888.xyz/iptv.php?id=20150,4
-http://iptv.4666888.xyz/iptv.php?id=20151,5
-http://iptv.4666888.xyz/iptv.php?id=20152,6
-http://iptv.4666888.xyz/iptv.php?id=20153,7
-http://iptv.4666888.xyz/iptv.php?id=20154,8
-http://iptv.4666888.xyz/iptv.php?id=20155,9
-http://iptv.4666888.xyz/iptv.php?id=20156,10
-http://iptv.4666888.xyz/iptv.php?id=20157,11
-http://iptv.4666888.xyz/iptv.php?id=20158,12
-http://iptv.4666888.xyz/iptv.php?id=20159,13
-http://iptv.4666888.xyz/iptv.php?id=20160,14
-http://iptv.4666888.xyz/iptv.php?id=20161,15
-http://iptv.4666888.xyz/iptv.php?id=20162,16
-http://iptv.4666888.xyz/iptv.php?id=20163,17
-http://iptv.4666888.xyz/iptv.php?id=20164,18
-http://iptv.4666888.xyz/iptv.php?id=20165,19
-http://iptv.4666888.xyz/iptv.php?id=20166,20
-http://iptv.4666888.xyz/iptv.php?id=20167,21
-
-
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",4
+http://iptv.4666888.xyz/iptv.php?id=20150
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",5
+http://iptv.4666888.xyz/iptv.php?id=20151
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",6
+http://iptv.4666888.xyz/iptv.php?id=20152
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",7
+http://iptv.4666888.xyz/iptv.php?id=20153
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",8
+http://iptv.4666888.xyz/iptv.php?id=20154
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",9
+http://iptv.4666888.xyz/iptv.php?id=20155
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",10
+http://iptv.4666888.xyz/iptv.php?id=20156
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",11
+http://iptv.4666888.xyz/iptv.php?id=20157
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",12
+http://iptv.4666888.xyz/iptv.php?id=20158
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",13
+http://iptv.4666888.xyz/iptv.php?id=20159
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",14
+http://iptv.4666888.xyz/iptv.php?id=20160
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",15
+http://iptv.4666888.xyz/iptv.php?id=20161
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",16
+http://iptv.4666888.xyz/iptv.php?id=20162
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",17
+http://iptv.4666888.xyz/iptv.php?id=20163
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",18
+http://iptv.4666888.xyz/iptv.php?id=20164
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",19
+http://iptv.4666888.xyz/iptv.php?id=20165
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",20
+http://iptv.4666888.xyz/iptv.php?id=20166
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Adult",21
+http://iptv.4666888.xyz/iptv.php?id=20167
