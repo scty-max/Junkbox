@@ -26,6 +26,7 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",EBS+ 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",ENA
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_joy_540&sid=tLqu4O06OBUd42Bf6pQzEj5iFGeblET7JuLcQfc7&secret=9b1bada69fe289f71ac1e24e8376b857&time=1742501919
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel A
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
