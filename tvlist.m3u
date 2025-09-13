@@ -65,8 +65,6 @@ https://live-edge-th136.myjktv.com/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLY
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Mnet
 https://everylive.space/live/mnet/livestream.m3u8?hls_ctx=bv4f54gi
-#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean News" group-title="Korean News",MTN
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68c5525432ef4af801f8797d.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="NBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",NBS
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OBS
@@ -124,6 +122,8 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af94b9ea7600195b375dc7.m3u
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9516640c78c4fe22828a.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",TV Chosun Joy
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9624a48fd514baa8b9d7.m3u8?uid=scty-max&pkey=V9fpUdMX
+#EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean News" group-title="Korean News",MTN
+https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68c5525432ef4af801f8797d.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",매일경제
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af96d3317b0e513b332e90.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",서울경제
