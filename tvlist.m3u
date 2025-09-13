@@ -193,7 +193,7 @@ http://iptv.4666888.xyz/iptv.php?id=20079
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV6
-https://edge.404406.xyz/live/viu6.m3u8?token=xmr1Q6tGAHDsqGjo6ht8Ng&expires=1757766956
+https://edge.404406.xyz/live/viu6.m3u8?token=lePd-kmjNkFLRSJ5N-LLLQ&expires=1757786936
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺31
 http://iptv.4666888.xyz/iptv.php?id=20080
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺32
@@ -202,8 +202,6 @@ https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 http://iptv.4666888.xyz/iptv.php?id=20120
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",天映頻道
 http://iptv.4666888.xyz/iptv.php?id=20116
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Bread TV
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",PopC
 https://live.tvfix.org/live/popc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳視澳門
