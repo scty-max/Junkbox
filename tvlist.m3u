@@ -109,7 +109,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",tvN
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=mobile_play&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",WBC
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",Yonhapnews
