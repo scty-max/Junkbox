@@ -57,14 +57,10 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68409f7f87beaece857bc4e2.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1358751232.m3u8
-#EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC drama
-https://live2.mbcmpp.co.kr/etc1/_definst_/drama/playlist.m3u8
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
-#EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC M
-https://live3.mbcmpp.co.kr/etc4/_definst_/m/playlist.m3u8
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC On
-https://live3.mbcmpp.co.kr/etc3/_definst_/on/playlist.m3u8
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
 #EXTINF:-1 tvg-id="MBN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Mnet
