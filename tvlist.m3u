@@ -57,10 +57,14 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68409f7f87beaece857bc4e2.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1358751232.m3u8
+#EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC drama
+https://live2.mbcmpp.co.kr/etc1/_definst_/drama/playlist.m3u8
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
+#EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC M
+https://live3.mbcmpp.co.kr/etc4/_definst_/m/playlist.m3u8
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Korea",MBC On
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
+https://live3.mbcmpp.co.kr/etc3/_definst_/on/playlist.m3u8
 #EXTINF:-1 tvg-id="MBN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Mnet
@@ -82,11 +86,11 @@ https://live-edge-th136.myjktv.com/watch/live.m3u8?video=disney_channel_540&sid=
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS Biz
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=6%2Csd%2Cl&auth=02142084ef5bbb5c418037aa618e478419942c57d5f
+https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTc4MjM0MDAsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwMGEwNjIwZi0wMWNmLTRlNzItYTE2ZS05OTI2MTI5MmQ2ODQiLCJpYXQiOjE3NTc4MTYyMDB9.01wVKtd25GLvYYeVZGpxJbS-H3eN0njBOMW5UNTiVHk
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS FunE
-https://p.skypeak.cloud/stream.m3u8?type=s&id=4%2Csd%2Cl&auth=6741911c224b81b4eed5a140ae516d1e19942c3d25d
+https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTc4MjMzMzIsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjcxODdhZmNmLWJhZjgtNDgzMC1iNmE3LTZiMmY2MzhlNzg2MCIsImlhdCI6MTc1NzgxNjEzMn0.T5txhsV_QwdOgYoU3uanrdylATMlRYnIrOMIkRZhzHg
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS Life
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=11%2Csd%2Cl&auth=03a026d666d6adffa484feaade09968219942c4fc86
+https://tvlive.sbs.co.kr/sbsfil/sbsfil2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTc4MjM0NDQsInBhdGgiOiIvc2JzZmlsMi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjY1Zjc1YjVmLTI4ODAtNGUyZC05OTRkLTg5NWU1NTQ3NTJkMyIsImlhdCI6MTc1NzgxNjI0NH0.AZlPnyllP15wY_rlRX9vumQuVgc7SGqEuMBbzsmBipw
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS Plus
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News 24
