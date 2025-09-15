@@ -28,7 +28,7 @@ https://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_joy_540&sid=tLqu4O0
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Jtbc
-https://livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0003/kewallo2vmx6dpvcfqo9cozt5o7gz6kyveiq/tkewvpgtesx1gp0ti5yl1w3o7gz6kyvaax_hls_playlist.m3u8?hdnts=st=1757831421~exp=1757890831~acl=*/kewallo2vmx6dpvcfqo9cozt5o7gz6kyveiq/*~hmac=5933286404459ce4d77e19f6421f1be7aa59f3ab88c2b740ff49789cc2d0002a
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=mobile_play&s=tving&i=C01582&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",KBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/681243d3c4027c3e99be8f05.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",KBS 1
