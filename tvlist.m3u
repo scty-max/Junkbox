@@ -394,22 +394,6 @@ http://iptv.4666888.xyz/iptv.php?id=20325
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",影迷數位紀實台
 http://iptv.4666888.xyz/iptv.php?id=20326
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Car Racing" tvg-language="" group-title="Car Racing",F1 TV
-https://cors-idx1.karmakurama.com/https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-id="" tvg-country="Car Racing" tvg-language="" group-title="Car Racing",Motorvision
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Car Racing" tvg-language="" group-title="Car Racing",SuperSport Motorsport
-https://ava.karmakurama.com/zeko/premium424/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Car Racing" tvg-language="" group-title="Car Racing",Sky Sport F1
-https://ava.karmakurama.com/wind/premium274/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Car Racing" tvg-language="" group-title="Car Racing",Canal+ Sport
-https://1xhujwa6av.amazonaws.com/hls/480p/playlist.m3u8?token=4ani50tj2xc&v=1757759916216
-#EXTINF:-1 tvg-id="" tvg-country="Car Racing" tvg-language="" group-title="Car Racing",Canal+ Sport
-https://kh1rwrorzs.amazonaws.com/hls/4k/playlist.m3u8?token=nuv3ysx7tx9&v=1757759970175
-#EXTINF:-1 tvg-id="" tvg-country="Car Racing" tvg-language="" group-title="Car Racing",ESPN
-https://ava.karmakurama.com/zeko/premium44/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Car Racing" tvg-language="" group-title="Car Racing",Mtrspt1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="America",A&E US Eastern Feed HD
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles HD" group-title="America",ABC (KABC) Los Angeles HD
