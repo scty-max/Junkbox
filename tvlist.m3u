@@ -4,7 +4,7 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Cartoon Network
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=EZYDWDyS1Bw7xiDHQvH0k39UGRrzeEZKFmbKHj7s&secret=afcfe5f046e1218d3cc5b160b4d5118b&time=1749703097
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel A
-https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NTc4NDMwMzJ9.xYcI79ybIkutD5NzxI6g3E3hN1Dc1NpgcrkvnxWwA8o
+https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NTc5NjY1NzZ9.t4Q_ElDIql_p_Pa31XgrpmrMC1n6Mx4EbTn0bX6YYuE
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel E
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Chinese TV
@@ -81,12 +81,6 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS Biz
-https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTc4MjM0MDAsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwMGEwNjIwZi0wMWNmLTRlNzItYTE2ZS05OTI2MTI5MmQ2ODQiLCJpYXQiOjE3NTc4MTYyMDB9.01wVKtd25GLvYYeVZGpxJbS-H3eN0njBOMW5UNTiVHk
-#EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS FunE
-https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTc4MjMzMzIsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjcxODdhZmNmLWJhZjgtNDgzMC1iNmE3LTZiMmY2MzhlNzg2MCIsImlhdCI6MTc1NzgxNjEzMn0.T5txhsV_QwdOgYoU3uanrdylATMlRYnIrOMIkRZhzHg
-#EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS Life
-https://tvlive.sbs.co.kr/sbsfil/sbsfil2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTc4MjM0NDQsInBhdGgiOiIvc2JzZmlsMi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjY1Zjc1YjVmLTI4ODAtNGUyZC05OTRkLTg5NWU1NTQ3NTJkMyIsImlhdCI6MTc1NzgxNjI0NH0.AZlPnyllP15wY_rlRX9vumQuVgc7SGqEuMBbzsmBipw
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS Plus
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News 24
