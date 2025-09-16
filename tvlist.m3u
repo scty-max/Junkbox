@@ -79,10 +79,6 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS FunE
-https://p.skypeak.cloud/stream.m3u8?type=s&id=4%2Csd%2Cl&auth=6b260f421472901a63dd950c8b39404619950a98dba
-#EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS Life
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=11%2Csd%2Cl&auth=ca7f826b53b6a034f6958713d901fc4219950ab1be5
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS Plus
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",SBS News 24
