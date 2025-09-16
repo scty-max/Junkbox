@@ -30,6 +30,8 @@ https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Jtbc
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=mobile_play&s=tving&i=C01582&q=FHD&apikey=5MY50EII66
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
+#EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Jtbc2
+https://sin.media-delivery.net/jtbc2/index.m3u8?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..fPTfWS1cxddoYgHp.PbOK4dY9ykXeUw9fqv9vpzzoYG5M8a5E1Fn8RmMxmWsCFWVNHXRY5UDLFUr4o6dOvFCjKdQJZwAKoJUCY5jWxckgZQmRQ09pb0RYH4aksaclyB0jdohXi61RMe1yjOlZtNJ7VKbdb6wDZRJ2_xJmcOXBoia7gxub0I1Uun1RSl5FhpgIKntcHLW_D2u0ekUnER3TjIKf8IsN38d1dGnq6pZurggqec67r1meK-ZRNfaLvv73RwjEkQ-OzJr27Mj9zcHfHamVCB1iKXhkAztgGBQrset-_1roB6fXobUb8wTdu25dZt247vAdBLLV2SKi6KllEqj40mwM6Bhpq0Kgo2WreaaS7wPl6ga7fIAHABvKp6R9zKhFABH9x0jKsV502SAnEVKkIy6G0ffcsG_0BlX3X-EBVsvx1z7bH7VF4SRCRpmQNpLzwuyBi_h-hDrNBsP1tlRuo1xnAfM2X7RoRGyotA-AlBGfKMtYaWsIzPQ.zya095QE1S7ttAZ0x17iiA&platformLanguage=en
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",KBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/681243d3c4027c3e99be8f05.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",KBS 1
