@@ -4,11 +4,9 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Cartoon Network
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=EZYDWDyS1Bw7xiDHQvH0k39UGRrzeEZKFmbKHj7s&secret=afcfe5f046e1218d3cc5b160b4d5118b&time=1749703097
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel A
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channela_540&sid=oLCCbAAllkuM6hWWRoADsjeQg9hOTawlA7Sv6cwY&secret=ebb1e94a74154191ec979d2edf68fc44&time=1756036397
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channela_540&sid=zLhHxUtd4yz2toiohNMEfx63yhemDSOd2xgsFaBV&secret=ad760dc9b77c911e341d5e114e36feff&time=1742500133
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel E
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
-#EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Chinese TV
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=chinesetv_540&sid=ZhoPSyCssGAH4bZqbgtiLGY2RRNtZkpxdNaqJ59Z&secret=d61b57728a4807c259df2dad974b8d5b&time=1742555489
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Comedy TV
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=comedy_540&sid=VwrbOrArABoCGtqRD7p4O5o3TLyqonOhScABtAo7&secret=2fe9f41d49ae8ea23b419e850b69671d&time=1742501996
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",EBS 1
@@ -98,8 +96,6 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv" tvg-country="Korea" tvg-language="Korean" group-title="Korea",TV Chosun 2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",TV Chosun Joy
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9624a48fd514baa8b9d7.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",tvN
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=mobile_play&s=tving&i=C00551&q=FHD&apikey=5MY50EII66#EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",WBC
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
