@@ -4,7 +4,7 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Cartoon Network
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=EZYDWDyS1Bw7xiDHQvH0k39UGRrzeEZKFmbKHj7s&secret=afcfe5f046e1218d3cc5b160b4d5118b&time=1749703097
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel A
-https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NTc5NjY1NzZ9.t4Q_ElDIql_p_Pa31XgrpmrMC1n6Mx4EbTn0bX6YYuE
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channela_540&sid=oLCCbAAllkuM6hWWRoADsjeQg9hOTawlA7Sv6cwY&secret=ebb1e94a74154191ec979d2edf68fc44&time=1756036397
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel E
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Chinese TV
