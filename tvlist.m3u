@@ -105,8 +105,6 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f065bda46552a55a1c4.m3u
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/67ff92ff8456e969e2fbb934.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",YTN2
 https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",YTN Science
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68c8e0d432ef4af801f87984.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",History Channel
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=history_540&sid=ktDYnxAlcjz7V3RTfpIGFtr5pGjLTXXbuEqQQTjG&secret=fa393d7a7f8b5c570fa9a02d67e5ddb8&time=1742556221
 #EXTINF:-1 tvg-id="" tvg-country="K-POP" tvg-language="K-POP" group-title="K-POP",THE K-POP
