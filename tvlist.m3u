@@ -320,26 +320,6 @@ http://iptv.4666888.xyz/iptv.php?id=20244
 http://iptv.4666888.xyz/iptv.php?id=20245
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華電視
 https://live.catvod.com/catvod_com.php?id=lunghuaxiju_twn&token=a63a39cfb1def06a94885f59e4a33dce2fa38d0a9f9426024644ba8fa790feaa%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖洋戲劇
-http://iptv.4666888.xyz/iptv.php?id=20294
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖洋卡通
-http://iptv.4666888.xyz/iptv.php?id=20295
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天歡樂
-http://iptv.4666888.xyz/iptv.php?id=20297
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天映畫
-http://iptv.4666888.xyz/iptv.php?id=20298
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天戲劇
-http://iptv.4666888.xyz/iptv.php?id=20299
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天電影
-http://iptv.4666888.xyz/iptv.php?id=20300
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天卡通台
-https://live.catvod.com/catvod_com.php?id=jingtiancartoon_twn&token=fd5bf07e4f5696e2a7ae17466d8c62830afe5b0a57c9dc15dec6ce30bbc1cf9d%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天育樂
-http://iptv.4666888.xyz/iptv.php?id=20301
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天資訊
-http://iptv.4666888.xyz/iptv.php?id=20302
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天國際
-https://live.catvod.com/catvod_com.php?id=jingtianintl_twn&token=6e21c35a6ad354996acfb56cb27405231b1bb39e88c7188d06c1049b3abc5d22%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",博斯運動1
 https://live.catvod.com/catvod_com.php?id=bosisport1_twn&token=ffae00a7e67248ae7fe803bded5005b31610ede61284d99631b08d426aa8302a%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",博斯運動2
