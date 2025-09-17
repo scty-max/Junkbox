@@ -391,9 +391,6 @@ http://iptv.4666888.xyz/iptv.php?id=20286
 http://iptv.4666888.xyz/iptv.php?id=20287
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",HUB都會
 http://iptv.4666888.xyz/iptv.php?id=20288
-
-
-
 #EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Animal_Planet 國語
 https://live.catvod.com/catvod_com.php?id=animalplanet_twn&token=7c099028b508b79747584cd17313645add53c4516e08c987ce83a956ddd7f8eb%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Animal Planet Eng
@@ -444,55 +441,55 @@ https://live.tvfix.org/live/popc/index.m3u8
 https://live.catvod.com/catvod_com.php?id=hbohit_twn&token=4b455f9f80a80bc171b1dbf601e36965ca5b43f231de5f6669615e13945188aa%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",HBO Taiwan
 https://live.catvod.com/catvod_com.php?id=hbohd_twn&token=6096b6ea523f23e1e6f1d39d829bfbdf0d3925d56e7e4802401ba9ff989966d6%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Catchplay電影
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Catchplay電影
 https://live.catvod.com/catvod_com.php?id=catchplay_twn&token=3e0632a895daf73cc9f49e832033651f67d1c7d25cfd045726b7de8dfa1b0f81%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,amc電影
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",amc電影
 https://live.catvod.com/catvod_com.php?id=starmoviesgold_twn&token=0f7bb0279c75a1b5ab956cd373313c8ec42fa267093fb72b5cce745d23c645a7%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Cinemax
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Cinemax
 https://live.catvod.com/catvod_com.php?id=Cinemax&token=4e50f9ae15dba036334b17e9d546acc95b8c5c96aa6f2eb2ad10fae82d1f48b8%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Animax
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Animax
 https://live.catvod.com/catvod_com.php?id=Animax&token=e17079e38ba35d2a674f15ccc27db2aa65365df5414d94f5343874386f9655f2%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Movies Now HD
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Movies Now HD
 https://live.catvod.com/catvod_com.php?id=moviesnow_raj&token=70a43d6a681d7da1b1af66aa01b04882042c7bab4de40b87cdfa9c1369ee3e06%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Star Movies HD
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Star Movies HD
 https://live.catvod.com/catvod_com.php?id=starmovies_raj&token=07a0591a080f55705f487f5d376926727945443c29441159ddb9dab17be9c2e4%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,HBO Family
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",HBO Family
 https://live.catvod.com/catvod_com.php?id=Hbofamily&token=80026ad126023c4f4ba407d6b5756ead39be8244fcd5633fe4e1e2aaa24ed1c7%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Hits
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Hits
 https://live.catvod.com/catvod_com.php?id=Hits&token=d56bf965eb1b92fd41cd21f798cf7261006c0027cbe95f4b0d4d679767fb0172%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Warner TV
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Warner TV
 https://live.catvod.com/catvod_com.php?id=WarnerTV&token=669f28ad4bddd6ba78760c1542788f7b61a594299564306b098c497cddb01401%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,HBO HD
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",HBO HD
 https://live.catvod.com/catvod_com.php?id=Hbo&token=b6e9e3dc2a7f99d7734dccaf692ad61f7623bec9f685c8c6767bcbefcc969c28%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,HBO Signature
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",HBO Signature
 https://live.catvod.com/catvod_com.php?id=Hbosignature&token=eee50af99429d57136c632573e89c5680a6d3a6876a49ed02caba35d7139efa2%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,HBO Hits
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",HBO Hits
 https://live.catvod.com/catvod_com.php?id=Hbohitshd&token=4efd1a90cf31e0b2cb38d3131d3159a77cf09cbbe2bd059fbe46018ad0697115%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,SCM
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",SCM
 https://live.catvod.com/catvod_com.php?id=Weishimovie&token=89be5c4b6e6a7d53a7cdc3c38efe9a7ba0f2783e1ad6a58fccece4351e72adeb%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Dreamworks
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Dreamworks
 https://live.catvod.com/catvod_com.php?id=Dreamworks&token=eafeb4e827f78cc9b9ef32191fde2fec3c5eab5ab5a59ec538ca32274fe5e961%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Thrill
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Thrill
 https://live.catvod.com/catvod_com.php?id=Thrill&token=ed2a7d07f21b32b73a4c0eab61eead4c3a93abc16790c5b5854b553c4c4a7146%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Hits Movie
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Hits Movie
 https://live.catvod.com/catvod_com.php?id=Hitsmovie&token=a3fd6ac5766173f19d986de176cf90890158aac8e15b4e0831d0688ce5eb59cc%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,One
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",One
 https://live.catvod.com/catvod_com.php?id=One&token=0cf13e7eda056868e7d289a8edf50c2a7080a9232676f6096c6dbb6c9a842767%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,tvN Movie
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",tvN Movie
 https://live.catvod.com/catvod_com.php?id=Tvnmovie&token=21b0d5adb46e26f652d11f54f4536afb1dcefd1a346b2b27db5f0735de698615%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Celestial Classic
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Celestial Classic
 https://live.catvod.com/catvod_com.php?id=Celestial2&token=7d8aaed7292353476c824fa27873d5ce1ff9db202aa83f17e7578a06f24d4f66%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Celestial Movies HD
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Celestial Movies HD
 https://live.catvod.com/catvod_com.php?id=Celestialindo&token=7fac9e01b1a9354e58238d62631008e142aed4218c22732108b9b73f7bfde931%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Axn HD
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Axn HD
 https://live.catvod.com/catvod_com.php?id=Axn&token=182443f17d51a057a350b0b2afa8b24b4076af398bff6aae49c518ac5d5b0b87%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Paramount Network
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Paramount Network
 https://live.catvod.com/catvod_com.php?id=Paramountnetwork&token=1d3a05cf04fb7bddc16dfc8b5c2fb0a980599e9b11caaf8e63d610dc5cc2d57a%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Astrol Kplus
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Astrol Kplus
 https://live.catvod.com/catvod_com.php?id=Kplus&token=39c3bb1ba178a72c3cb65f36564318d1970cd730525cc64cd6f76eabedf0defa%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Rock Actions
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Rock Actions
 https://live.catvod.com/catvod_com.php?id=Rockaction&token=33e055d6630b15c095a4cc0d639e907e39f9b9a8ea320d253fd9c15029f810d5%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Rock Entertainment
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Rock Entertainment
 https://live.catvod.com/catvod_com.php?id=Rockentertain&token=5713c9e9140af54cd494320da4a08b40153e89f59d0005afbce4a78b29894850%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Premier League 1
 https://live.catvod.com/catvod_com.php?id=go_assp1&token=eb0a443ef593252d99170e42228fb67fa67e718bd71ea3ea6df2d4b647f66a72%3A1758111448
