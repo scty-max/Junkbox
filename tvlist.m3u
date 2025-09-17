@@ -308,14 +308,16 @@ https://live.catvod.com/catvod_com.php?id=videolandmax&token=dc53c5976e8763bad89
 https://live.catvod.com/catvod_com.php?id=videolandtv&token=f831766fbb8cc7e8ebd6c5036ff850876a2022df095319529378b933c74f5735%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",ELTA娛樂
 http://iptv.4666888.xyz/iptv.php?id=20303
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",ELTA影劇
+http://iptv.4666888.xyz/iptv.php?id=20230
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華洋片
 http://iptv.4666888.xyz/iptv.php?id=20242
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華偶像
-
+http://iptv.4666888.xyz/iptv.php?id=20243
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華日韓
 http://iptv.4666888.xyz/iptv.php?id=20244
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華經典
-
+http://iptv.4666888.xyz/iptv.php?id=20245
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華電視
 https://live.catvod.com/catvod_com.php?id=lunghuaxiju_twn&token=a63a39cfb1def06a94885f59e4a33dce2fa38d0a9f9426024644ba8fa790feaa%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖洋戲劇
