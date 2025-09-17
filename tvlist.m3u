@@ -162,6 +162,8 @@ http://cdn.163189.xyz/163189/now
 http://iptv.4666888.xyz/iptv.php?id=20087
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW星影台
 http://iptv.4666888.xyz/iptv.php?id=20086
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",美亞電影台
+http://iptv.4666888.xyz/iptv.php?id=20120
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV6
@@ -397,8 +399,6 @@ https://live.catvod.com/catvod_com.php?id=Natgeowild&token=b0c994e5ef08e8c855325
 https://tvpass.org/live/Science/hd
 #EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",TLC
 https://live.catvod.com/catvod_com.php?id=Tlc&token=45b33d56c02368f9ecf88492140986910cd1617bca6a240666014facc8e09449%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",美亞電影台
-http://iptv.4666888.xyz/iptv.php?id=20120
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",美亞電影 Taiwan
 https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=a5a940a22da7fb88dac08b8197c76f7c4d8194487a02c4821c44c8d5c454d7ad%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",星衛電影
