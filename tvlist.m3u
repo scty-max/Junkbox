@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="ABN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Cartoon Network
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=EZYDWDyS1Bw7xiDHQvH0k39UGRrzeEZKFmbKHj7s&secret=afcfe5f046e1218d3cc5b160b4d5118b&time=1749703097
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel A
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channela_540&sid=zLhHxUtd4yz2toiohNMEfx63yhemDSOd2xgsFaBV&secret=ad760dc9b77c911e341d5e114e36feff&time=1742500133
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel E
@@ -75,8 +73,6 @@ https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cgv_540&sid=ITjFbSesTCA
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
 #EXTINF:-1 tvg-id="OUN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Poyo
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",SBS Plus
@@ -118,6 +114,12 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68c5525432ef4af801f8797d.m3u
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af96d3317b0e513b332e90.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",서울경제
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af96f073052a72805634bc.m3u8?uid=scty-max&pkey=V9fpUdMX
+#EXTINF:-1 tvg-id="ABN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Cartoon Network
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=EZYDWDyS1Bw7xiDHQvH0k39UGRrzeEZKFmbKHj7s&secret=afcfe5f046e1218d3cc5b160b4d5118b&time=1749703097
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",뽀요TV
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",어린이
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=childrens_tv_540&sid=bacS5e2f2oSXK0Jq8h8erviPliIz00vJqZSDx7AV&secret=e37983794947e47b83649a92de60f3da&time=1742558216
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",어서와 한국은 처음이지
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9746f7de788d8bffd857.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",연합뉴스경제
@@ -130,8 +132,6 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68baf36913fdd796a3319278.m3u
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af98084f7cb66f34d462e0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",욕아방송
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=child_care_540&sid=MCMbs5pnRCoyIVAPtv5g0MRDu11MEoQNUSSpZfsk&secret=706abe245cd1b8483e082c3ee34c19b3&time=1742556877
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",어린이
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=childrens_tv_540&sid=bacS5e2f2oSXK0Jq8h8erviPliIz00vJqZSDx7AV&secret=e37983794947e47b83649a92de60f3da&time=1742558216
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 76
 http://iptv.4666888.xyz/iptv.php?id=20077
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 77
