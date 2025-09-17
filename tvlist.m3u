@@ -357,26 +357,44 @@ http://iptv.4666888.xyz/iptv.php?id=20288
 https://live.catvod.com/catvod_com.php?id=animalplanet_twn&token=7c099028b508b79747584cd17313645add53c4516e08c987ce83a956ddd7f8eb%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Animal Planet Eng
 https://live.catvod.com/catvod_com.php?id=AnimalPlanet&token=f26d81cbc6e3e9e01ce7956b9f751417ae9589876d2cd76d5e5029a850b97045%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",BBC Earth HD
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Documentary",Animal Planet US East HD
+https://tvpass.org/live/AnimalPlanetEast/hd
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",BBC Earth HD 中文
 https://live.catvod.com/catvod_com.php?id=bbcearth_twn&token=6a6646d264bcd53266736c4e56d25f1a5cef09431566a97cda57db093cfae1dc%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",BBC Earth Lifestyle
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",BBC Earth Lifestyle 中文
 https://live.catvod.com/catvod_com.php?id=bbclifestyle_twn&token=ddad504109f614194a783960cbf29915b4c557d1442cc9caf05166087fc1d7b7%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",CI
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",CI 中文
 https://live.catvod.com/catvod_com.php?id=ci_twn&token=2e1a05d88c41ba7131a1106ae95347bd4378a8bd0e60134c28c451faba77407f%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Discovery HD
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD HD" group-title="Documentary",Crime & Investigation Network USA HD HD
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Discovery HD 中文
 https://live.catvod.com/catvod_com.php?id=discoverych_twn&token=571a7343c7f41630dca6fca60a966578d03d16be68d1aae7e93987ee1280cb31%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Foodnetwork Hd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD" group-title="Documentary",Discovery Channel (US) Eastern Feed HD
+https://tvpass.org/live/DiscoveryChannelEast/hd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel HD" group-title="Documentary",Discovery Family Channel HD
+https://tvpass.org/live/DiscoveryFamily/hd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel HD" group-title="Documentary",Discovery Life Channel HD
+https://tvpass.org/live/DiscoveryLife/hd
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Foodnetwork Hd 
 https://live.catvod.com/catvod_com.php?id=Foodnetwork&token=82e84e208215b1b9bb641d0d70b94a0159e7b253be14d5838d3db55cd13ae17a%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",History
 https://live.catvod.com/catvod_com.php?id=History&token=595a0b0577195b727cf93224426a9e4c9c0dfee6bb20ef907eccd945cdf5c8d5%3A1758111448
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed HD" group-title="Documentary",History Channel US Eastern Feed HD
+https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",HGTV
 https://live.catvod.com/catvod_com.php?id=HGTV&token=95d79eae0dde2223b5bf3d3484c232e82367be6b1f363d234216e2c4645e2043%3A1758111448
-#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",MagellanTV Taiwan
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed HD" group-title="Documentary",HGTV USA Eastern Feed HD
+https://tvpass.org/live/HGTVEast/hd
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",MagellanTV 中文
 http://iptv.4666888.xyz/iptv.php?id=20282
-#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",影迷數位紀實台
-http://iptv.4666888.xyz/iptv.php?id=20326
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern HD" group-title="Documentary",National Geographic US Eastern HD
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild HD" group-title="Documentary",National Geographic Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd
 #EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",NatGeo Wild HD
 https://live.catvod.com/catvod_com.php?id=Natgeowild&token=b0c994e5ef08e8c85532574d63465dc18ce5e70f37250016a9fc7de068cf8fe4%3A1758111448
+#EXTINF:-1 tvg-id="science" tvg-name="Science HD" group-title="Documentary",Science HD
+https://tvpass.org/live/Science/hd
 #EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",TLC
 https://live.catvod.com/catvod_com.php?id=Tlc&token=45b33d56c02368f9ecf88492140986910cd1617bca6a240666014facc8e09449%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",美亞電影台
@@ -453,6 +471,20 @@ https://live.catvod.com/catvod_com.php?id=Kplus&token=39c3bb1ba178a72c3cb65f3656
 https://live.catvod.com/catvod_com.php?id=Rockaction&token=33e055d6630b15c095a4cc0d639e907e39f9b9a8ea320d253fd9c15029f810d5%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Rock Entertainment
 https://live.catvod.com/catvod_com.php?id=Rockentertain&token=5713c9e9140af54cd494320da4a08b40153e89f59d0005afbce4a78b29894850%3A1758111448
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Movie",Cinemax Eastern Feed HD
+https://tvpass.org/live/CinemaxEast/hd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="Movie",HBO Eastern Feed HD
+https://tvpass.org/live/HBOEast/hd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="Movie",HBO 2 Eastern Feed HD
+https://tvpass.org/live/HBO2East/hd
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="Movie",HBO Comedy HD East HD
+https://tvpass.org/live/HBOComedyEast/hd
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="Movie",HBO Family Eastern Feed HD
+https://tvpass.org/live/HBOFamilyEast/hd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Movie",HBO Signature (HBO 3) Eastern HD
+https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="Movie",HBO Zone HD East HD
+https://tvpass.org/live/HBOZoneEast/hd
 #EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Premier League 1
 https://live.catvod.com/catvod_com.php?id=go_assp1&token=eb0a443ef593252d99170e42228fb67fa67e718bd71ea3ea6df2d4b647f66a72%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro EPL 1 backup
