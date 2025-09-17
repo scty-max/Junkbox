@@ -93,7 +93,10 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",tvN
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=mobile_play&s=tving&i=C00551&q=FHD&apikey=5MY50EII66#EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",WBC
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=mobile_play&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",tvN Express
+https://live.catvod.com/catvod_com.php?id=TVN&token=40a201822df8ec0c767816130c6c20ba244c921da8a9e012b57fac685dd9e0c5%3A1758111448
+#EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",WBC
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",Yonhapnews
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f065bda46552a55a1c4.m3u8?uid=scty-max&pkey=V9fpUdMX
@@ -417,9 +420,6 @@ http://iptv.4666888.xyz/iptv.php?id=20326
 https://live.catvod.com/catvod_com.php?id=Natgeowild&token=b0c994e5ef08e8c85532574d63465dc18ce5e70f37250016a9fc7de068cf8fe4%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",TLC
 https://live.catvod.com/catvod_com.php?id=Tlc&token=45b33d56c02368f9ecf88492140986910cd1617bca6a240666014facc8e09449%3A1758111448
-
-
-
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",美亞電影台
 http://iptv.4666888.xyz/iptv.php?id=20120
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",美亞電影 Taiwan
@@ -428,9 +428,10 @@ https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=a5a940a22da7fb88d
 https://live.catvod.com/catvod_com.php?id=xingwei_movie&token=41cce44fc43a377ce7ea4557226b5b453b54532a44dfadb7e92070b3b6c9ca42%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",天映頻道 Taiwan
 https://live.catvod.com/catvod_com.php?id=ctv18_twn&token=63dcd653fc076655c330dd9e7fff321750a909e75b197a37af025392ef1ab96d%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",愛奇藝
+https://live.catvod.com/catvod_com.php?id=Qiyi&token=485f95173bc98a5fb941fa3ce00d902f3af96d410d8471dc5f36d5cfca5b586b%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",AXN Taiwan
 https://live.catvod.com/catvod_com.php?id=axn_twn&token=db1f048bd3dbbb34ae312806fb283e7c85ac85a369314e742f8fb91208c9efa3%3A1758111448
-
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Cinemax Taiwan
 https://live.catvod.com/catvod_com.php?id=cinemax_twn&token=d8f10959f5f659a1af58c42103697f95d808143ce06ea901cf8c0b2a5407cc32%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Hollywood Taiwan
