@@ -129,22 +129,12 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af98084f7cb66f34d462e0.m3u
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=child_care_540&sid=MCMbs5pnRCoyIVAPtv5g0MRDu11MEoQNUSSpZfsk&secret=706abe245cd1b8483e082c3ee34c19b3&time=1742556877
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",어린이
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=childrens_tv_540&sid=bacS5e2f2oSXK0Jq8h8erviPliIz00vJqZSDx7AV&secret=e37983794947e47b83649a92de60f3da&time=1742558216
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW新聞
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW爆谷台
-http://iptv.4666888.xyz/iptv.php?id=20087
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW星影台
-http://iptv.4666888.xyz/iptv.php?id=20086
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Now華劇台
-http://iptv.4666888.xyz/iptv.php?id=20091
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",黃金華劇台
-http://iptv.4666888.xyz/iptv.php?id=20100
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW Sports 1
-http://iptv.4666888.xyz/iptv.php?id=20092
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW Sports 2
-http://iptv.4666888.xyz/iptv.php?id=20093
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW Sports 3
-http://iptv.4666888.xyz/iptv.php?id=20084
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 76
+http://iptv.4666888.xyz/iptv.php?id=20077
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 77
+http://iptv.4666888.xyz/iptv.php?id=20078
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 78
+http://iptv.4666888.xyz/iptv.php?id=20079
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB無線新聞
@@ -165,38 +155,24 @@ http://iptv.4666888.xyz/iptv.php?id=20098
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB Drama
 https://6.cdn.loc.cc/163189.php?id=tvbd
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 76
-http://iptv.4666888.xyz/iptv.php?id=20077
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 77
-http://iptv.4666888.xyz/iptv.php?id=20078
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 78
-http://iptv.4666888.xyz/iptv.php?id=20079
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW新聞
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW爆谷台
+http://iptv.4666888.xyz/iptv.php?id=20087
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW星影台
+http://iptv.4666888.xyz/iptv.php?id=20086
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV6
-https://edge.404406.xyz/live/viu6.m3u8?token=lePd-kmjNkFLRSJ5N-LLLQ&expires=1757786936
+https://live.catvod.com/catvod_com.php?id=viusix_twn&token=077b3591eb7dc817d07bc6f14a99aacdc15334fe8aa598764f946c1e66b46e16%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺31
 http://iptv.4666888.xyz/iptv.php?id=20080
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",美亞電影台
-http://iptv.4666888.xyz/iptv.php?id=20120
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",天映頻道
-http://iptv.4666888.xyz/iptv.php?id=20116
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",PopC
-https://live.tvfix.org/live/popc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳視澳門
-http://iptv.4666888.xyz/iptv.php?id=20127
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳門Macau
-http://iptv.4666888.xyz/iptv.php?id=20128
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳視資訊
-http://iptv.4666888.xyz/iptv.php?id=20129
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳門蓮花
-http://iptv.4666888.xyz/iptv.php?id=20130
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳門體育
-http://iptv.4666888.xyz/iptv.php?id=20131
-#EXTINF:-1 tvg-id="" tvg-country="Macau" tvg-language="" group-title="Macau",澳門綜藝
-http://iptv.4666888.xyz/iptv.php?id=20132
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",新時代1
+http://iptv.4666888.xyz/iptv.php?id=20290
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",新時代2
+http://iptv.4666888.xyz/iptv.php?id=20313
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS
 http://iptv.4666888.xyz/iptv.php?id=20188
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS News
@@ -214,9 +190,11 @@ http://iptv.4666888.xyz/iptv.php?id=20193
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",東森Live
 http://iptv.4666888.xyz/iptv.php?id=20308
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",東森綜合
-http://iptv.4666888.xyz/iptv.php?id=20206
+https://live.catvod.com/catvod_com.php?id=ettvzhonghe&token=373d0bf5e17e24fcc5ef44a3e930fa1a33176ced2a1a00974c213a396fe7019f%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",東森戲劇
 http://iptv.4666888.xyz/iptv.php?id=20207
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",東森超視
+http://iptv.4666888.xyz/iptv.php?id=20208
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",東森美洲
 http://iptv.4666888.xyz/iptv.php?id=20210
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",東森電影
@@ -237,6 +215,10 @@ http://iptv.4666888.xyz/iptv.php?id=20170
 http://iptv.4666888.xyz/iptv.php?id=20202
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",三立都會
 http://iptv.4666888.xyz/iptv.php?id=20205
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",三立戲劇
+https://live.catvod.com/catvod_com.php?id=sanlixiju_twn&token=34223e4a2160d44812ab6639d8de87b15d9ac6c444423cde6720d8f4b63a73ab%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",三立綜合
+https://live.catvod.com/catvod_com.php?id=sanlizhonghe&token=13277d3e636a9f0b99dded041ddb35cfce5415ea632ff00870cfc5b4825667fd%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",中視
 http://iptv.4666888.xyz/iptv.php?id=20183
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",中視新聞
@@ -245,10 +227,20 @@ http://iptv.4666888.xyz/iptv.php?id=20171
 http://iptv.4666888.xyz/iptv.php?id=20186
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",台視新聞
 http://iptv.4666888.xyz/iptv.php?id=20172
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",台視綜合
+https://live.catvod.com/catvod_com.php?id=ttvzhonghe&token=f6efdb620cf605b0dc7106d46716ba27f337bb432d252534196f4eb22d3d6433%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",Jet綜合
+https://live.catvod.com/catvod_com.php?id=jet&token=145d14ef70e840069e79092719a96cd9d6b07d53ce2306635208f12eb2f38dd3%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",中天新聞
 http://iptv.4666888.xyz/iptv.php?id=20173
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",中天娛樂
+https://live.catvod.com/catvod_com.php?id=ctient&token=9b7f0e27eb00fc5d18484b8848aab7dda36f2484545fb9b28d88e6f41ecdebdf%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",中天綜合
 http://iptv.4666888.xyz/iptv.php?id=20195
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",中天亞洲
+https://live.catvod.com/catvod_com.php?id=ctiasia_twn&token=831e4ae816c65150f497a90a05e1e8dfd9c51584ac9b010092f80dc0c7a1d998%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",CTI+
+http://iptv.4666888.xyz/iptv.php?id=20181
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",寰宇新聞台灣
 http://iptv.4666888.xyz/iptv.php?id=20324
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",寰宇新聞
@@ -259,58 +251,90 @@ http://iptv.4666888.xyz/iptv.php?id=20182
 http://iptv.4666888.xyz/iptv.php?id=20177
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",民視台灣
 http://iptv.4666888.xyz/iptv.php?id=20216
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",華視
-http://iptv.4666888.xyz/iptv.php?id=20184
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",華視新聞
-http://iptv.4666888.xyz/iptv.php?id=20310
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",公視
-http://iptv.4666888.xyz/iptv.php?id=20185
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",中旺
-http://iptv.4666888.xyz/iptv.php?id=20187
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",年代新聞
-http://iptv.4666888.xyz/iptv.php?id=20178
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",非凡直播
-http://iptv.4666888.xyz/iptv.php?id=20179
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",鏡新聞
-http://iptv.4666888.xyz/iptv.php?id=20180
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",CTI+
-http://iptv.4666888.xyz/iptv.php?id=20181
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",GTV八大第1台
 http://iptv.4666888.xyz/iptv.php?id=20197
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",GTV八大綜合
 http://iptv.4666888.xyz/iptv.php?id=20198
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",GTV八大戲劇
 http://iptv.4666888.xyz/iptv.php?id=20199
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",超視
-http://iptv.4666888.xyz/iptv.php?id=20208
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",華視
+http://iptv.4666888.xyz/iptv.php?id=20184
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",華視新聞
+http://iptv.4666888.xyz/iptv.php?id=20310
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",壹新聞
+https://live.catvod.com/catvod_com.php?id=yinews&token=73a5123538479f5c4c532be1825b6260e97e6280c3c3c934765fa3a346269d3f%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",壹電影
+http://iptv.4666888.xyz/iptv.php?id=20314
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",公視
+http://iptv.4666888.xyz/iptv.php?id=20185
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",中旺
+http://iptv.4666888.xyz/iptv.php?id=20187
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",年代新聞
+https://live.catvod.com/catvod_com.php?id=niandainews_twn&token=1b6b16b2e7af970c59ba4bae04010a0bda23298fbe903c8ce8955c55f4c426e6%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",年代Much
+https://live.catvod.com/catvod_com.php?id=niandaitv_twn&token=2d0ca5f4b6ae72984fe45c36505b1dd8a6f601e13c2eecb25a887ffcc1c00a26%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",非凡直播
+http://iptv.4666888.xyz/iptv.php?id=20179
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",鏡新聞
+http://iptv.4666888.xyz/iptv.php?id=20180
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",華藝
 http://iptv.4666888.xyz/iptv.php?id=20223
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",信大
+https://live.catvod.com/catvod_com.php?id=xinda_twn&token=c71ac12073eea4548b2aac8c51e8295c7301ff1f4200121a6d7e76d5b7b091e8%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",霹靂
+https://live.catvod.com/catvod_com.php?id=pilitw_twn&token=44de306e3b75a6a4378549c05f68482aa99558507d618afd7d36aff55fa1f118%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",好消息 2
+https://live.catvod.com/catvod_com.php?id=good2_twn&token=09054f105e6b35b9fe67b6e897924a4720a012e20f48da03fc67b88f20bafaff%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",大愛1台
+https://live.catvod.com/catvod_com.php?id=daai_twn&token=527241b1d8beb1689f41974d1fe8049842a980449b19f16ab3f9ff4f0f9fe6ab%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",大愛2台
+https://live.catvod.com/catvod_com.php?id=daai2_twn&token=38216dbcf4f9c6ebf5e388acb36bd50b3995978cee9af8d35d1b46491ad23e2a%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",亞洲美食
+https://live.catvod.com/catvod_com.php?id=afc_twn&token=c48a615c284aba28287012bdac651840ccd15492e772d2eaadeda1f6d4b95610%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",美食星球
+https://live.catvod.com/catvod_com.php?id=foodplanet_twn&token=3f83283d00a9a7e125b791b645797ed1eb9965268bb7c0a9805a8e45167f6948%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",亞洲旅游 TLC Asia
+https://live.catvod.com/catvod_com.php?id=tlc_twn&token=bb391080a5ec93a90c142a5262c1f5e01ec8fbb2897d5f7bd1fee25723b863b8%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",MTV Live
+https://live.catvod.com/catvod_com.php?id=mtvhd_twn&token=4bc737bd5cf85247739fc141ab1b0a14d0570e81a1b77a5d9aeac3418c45bb96%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍詳時代
+https://live.catvod.com/catvod_com.php?id=lungxiangtime_twn&token=3004f8871b3a464cdb24239076134e616fbe55fa4a15b8d7ca92454644e7999b%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",EYETV旅游
+https://live.catvod.com/catvod_com.php?id=eyetvtravel_twn&token=7826f609fe951fec138cdfcf3701413cfa2b49949197f9074eaaceccd6621800%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",EYETV戲劇
+https://live.catvod.com/catvod_com.php?id=eyetvxiju_twn&token=a43bdbfff872bbf1fa5c8d9b8884957b95653086db878117b4c31dd549a73e8e%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",衛視中文台 Star Movies Chinese
+https://live.catvod.com/catvod_com.php?id=weishichinese_twn&token=31fa10bad21fc4323198441f553660a33f5980061ae43fa9f8e6f3f1b4aac51c%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",緯來體育
 http://iptv.4666888.xyz/iptv.php?id=20225
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",緯來日本
-http://iptv.4666888.xyz/iptv.php?id=20226
+https://live.catvod.com/catvod_com.php?id=videolandjapan&token=612302c0644ecc80e89dec01382aa5e4433303f13073c995e1e8851e906fbe71%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",緯來綜合
 http://iptv.4666888.xyz/iptv.php?id=20228
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",緯來電影
+https://live.catvod.com/catvod_com.php?id=videolandmovie&token=fc26a8520b79653367f6c51efd543a92c08e7b31d832dc087d0efdfbff8866b4%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",緯來育樂
+https://live.catvod.com/catvod_com.php?id=videolandmax&token=dc53c5976e8763bad89717f6235d367eae0d0b567c77f6430a205d281fe5aa03%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",緯來精彩
+https://live.catvod.com/catvod_com.php?id=videolandspecial_twn&token=901db49f34931da0d27a631da04bab46ba268db561793bf3232bc1a0d7b1a015%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",緯來戲劇
+https://live.catvod.com/catvod_com.php?id=videolandtv&token=f831766fbb8cc7e8ebd6c5036ff850876a2022df095319529378b933c74f5735%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",ELTA娛樂
 http://iptv.4666888.xyz/iptv.php?id=20303
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",ELTA綜合
+https://live.catvod.com/catvod_com.php?id=eltazonghe_twn&token=e30e21971c98c90cc0c37cca8bcffff713d3c51e84d2446bdc3742ccf9bf3faf%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",ELTA影劇
-http://iptv.4666888.xyz/iptv.php?id=20230
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",ELTA體育1
-http://iptv.4666888.xyz/iptv.php?id=20232
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",ELTA體育2
-http://iptv.4666888.xyz/iptv.php?id=20233
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",ELTA體育3
-http://iptv.4666888.xyz/iptv.php?id=20234
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",ELTA體育4
-http://iptv.4666888.xyz/iptv.php?id=20235
+https://live.catvod.com/catvod_com.php?id=eltayingju_twn&token=1e5f48f4bf6906607c6ea4f3b2071af81c84017d80543c122486d5b8bd16aede%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華洋片
 http://iptv.4666888.xyz/iptv.php?id=20242
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華偶像
-http://iptv.4666888.xyz/iptv.php?id=20243
+https://live.catvod.com/catvod_com.php?id=lunghuaidol_twn&token=9bfd07f84a43b1694abd509e4d9fe65ce068a6bfda738054858bf63a14476371%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華日韓
 http://iptv.4666888.xyz/iptv.php?id=20244
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華經典
-http://iptv.4666888.xyz/iptv.php?id=20245
+https://live.catvod.com/catvod_com.php?id=lunghuajingdian_twn&token=68bbf81fcf5f78dafe55f59be84ae65d9bafa86613d01c8bb52a186c03e2bef1%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",龍華戲劇
+https://live.catvod.com/catvod_com.php?id=lunghuaxiju_twn&token=a63a39cfb1def06a94885f59e4a33dce2fa38d0a9f9426024644ba8fa790feaa%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖洋戲劇
 http://iptv.4666888.xyz/iptv.php?id=20294
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖洋卡通
@@ -323,42 +347,37 @@ http://iptv.4666888.xyz/iptv.php?id=20298
 http://iptv.4666888.xyz/iptv.php?id=20299
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天電影
 http://iptv.4666888.xyz/iptv.php?id=20300
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天卡通台
+https://live.catvod.com/catvod_com.php?id=jingtiancartoon_twn&token=fd5bf07e4f5696e2a7ae17466d8c62830afe5b0a57c9dc15dec6ce30bbc1cf9d%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天育樂
 http://iptv.4666888.xyz/iptv.php?id=20301
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天資訊
 http://iptv.4666888.xyz/iptv.php?id=20302
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",靖天國際
+https://live.catvod.com/catvod_com.php?id=jingtianintl_twn&token=6e21c35a6ad354996acfb56cb27405231b1bb39e88c7188d06c1049b3abc5d22%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",博斯運動1
-http://iptv.4666888.xyz/iptv.php?id=20263
+https://live.catvod.com/catvod_com.php?id=bosisport1_twn&token=ffae00a7e67248ae7fe803bded5005b31610ede61284d99631b08d426aa8302a%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",博斯運動2
-http://iptv.4666888.xyz/iptv.php?id=20264
+https://live.catvod.com/catvod_com.php?id=bosisport2_twn&token=782e76551690e7f0e1cab45a5f1197a5ce92bfc45045ab00d39d084d45680da3%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",博斯高球2
-http://iptv.4666888.xyz/iptv.php?id=20265
+https://live.catvod.com/catvod_com.php?id=bosigolf2_twn&token=bba697e7eec78f926ea2d4c372cf8534a10d4a33ec124ccf4596c728e19da277%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",博斯網球
-http://iptv.4666888.xyz/iptv.php?id=20267
+https://live.catvod.com/catvod_com.php?id=bositennis_twn&token=c8ae02f26b4007c6d07dd47bc0befe23bf3ec5352b73c35eea625c3ea2e0f2c1%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",博斯無限
 http://iptv.4666888.xyz/iptv.php?id=20268
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",Animal Planet
-http://iptv.4666888.xyz/iptv.php?id=20277
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",BBC Earth
-http://iptv.4666888.xyz/iptv.php?id=20279
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",BBC Lifestyle
-http://iptv.4666888.xyz/iptv.php?id=20280
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",MagellanTV
-http://iptv.4666888.xyz/iptv.php?id=20282
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",Hollywood
-http://iptv.4666888.xyz/iptv.php?id=20248
-#EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",CM+
-http://iptv.4666888.xyz/iptv.php?id=20249
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",AXN
-http://iptv.4666888.xyz/iptv.php?id=20254
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Animax
-http://iptv.4666888.xyz/iptv.php?id=20258
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",Thrill
-http://iptv.4666888.xyz/iptv.php?id=20259
-#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",astro歡樂
-http://iptv.4666888.xyz/iptv.php?id=20260
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",豬哥亮歌廳秀
+http://iptv.4666888.xyz/iptv.php?id=20317
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",CN卡通
 http://iptv.4666888.xyz/iptv.php?id=20262
+https://live.catvod.com/catvod_com.php?id=xingwei_movie&token=41cce44fc43a377ce7ea4557226b5b453b54532a44dfadb7e92070b3b6c9ca42%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",AFC亞洲旅游台
+https://live.catvod.com/catvod_com.php?id=asiatravel_twn&token=46c44e77acf24463af984dfdb9f05a06902ebe7925d162f2a654c34f681f5284%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",astro歡樂
+http://iptv.4666888.xyz/iptv.php?id=20260
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",八度空間
+http://iptv.4666888.xyz/iptv.php?id=20306
+#EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",CM+
+http://iptv.4666888.xyz/iptv.php?id=20249
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Channel U
 http://iptv.4666888.xyz/iptv.php?id=20284
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Channel 5
@@ -369,24 +388,209 @@ http://iptv.4666888.xyz/iptv.php?id=20286
 http://iptv.4666888.xyz/iptv.php?id=20287
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",HUB都會
 http://iptv.4666888.xyz/iptv.php?id=20288
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",新時代1
-http://iptv.4666888.xyz/iptv.php?id=20290
-#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",八度空間
-http://iptv.4666888.xyz/iptv.php?id=20306
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",HOP SPORTS
-http://iptv.4666888.xyz/iptv.php?id=20311
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",新時代2
-http://iptv.4666888.xyz/iptv.php?id=20313
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",壹電影
-http://iptv.4666888.xyz/iptv.php?id=20314
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",豬哥亮歌廳秀
-http://iptv.4666888.xyz/iptv.php?id=20317
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",HBO Hits
-http://iptv.4666888.xyz/iptv.php?id=20323
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",FGM Gold
-http://iptv.4666888.xyz/iptv.php?id=20325
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",影迷數位紀實台
+
+
+
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Animal_Planet 國語
+https://live.catvod.com/catvod_com.php?id=animalplanet_twn&token=7c099028b508b79747584cd17313645add53c4516e08c987ce83a956ddd7f8eb%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Animal Planet Eng
+https://live.catvod.com/catvod_com.php?id=AnimalPlanet&token=f26d81cbc6e3e9e01ce7956b9f751417ae9589876d2cd76d5e5029a850b97045%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",BBC Earth HD
+https://live.catvod.com/catvod_com.php?id=bbcearth_twn&token=6a6646d264bcd53266736c4e56d25f1a5cef09431566a97cda57db093cfae1dc%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",BBC Earth Lifestyle
+https://live.catvod.com/catvod_com.php?id=bbclifestyle_twn&token=ddad504109f614194a783960cbf29915b4c557d1442cc9caf05166087fc1d7b7%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",CI
+https://live.catvod.com/catvod_com.php?id=ci_twn&token=2e1a05d88c41ba7131a1106ae95347bd4378a8bd0e60134c28c451faba77407f%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Discovery HD
+https://live.catvod.com/catvod_com.php?id=discoverych_twn&token=571a7343c7f41630dca6fca60a966578d03d16be68d1aae7e93987ee1280cb31%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",Foodnetwork Hd
+https://live.catvod.com/catvod_com.php?id=Foodnetwork&token=82e84e208215b1b9bb641d0d70b94a0159e7b253be14d5838d3db55cd13ae17a%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",History
+https://live.catvod.com/catvod_com.php?id=History&token=595a0b0577195b727cf93224426a9e4c9c0dfee6bb20ef907eccd945cdf5c8d5%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",HGTV
+https://live.catvod.com/catvod_com.php?id=HGTV&token=95d79eae0dde2223b5bf3d3484c232e82367be6b1f363d234216e2c4645e2043%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",MagellanTV Taiwan
+http://iptv.4666888.xyz/iptv.php?id=20282
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",影迷數位紀實台
 http://iptv.4666888.xyz/iptv.php?id=20326
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",NatGeo Wild HD
+https://live.catvod.com/catvod_com.php?id=Natgeowild&token=b0c994e5ef08e8c85532574d63465dc18ce5e70f37250016a9fc7de068cf8fe4%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Documentary" tvg-language="" group-title="Documentary",TLC
+https://live.catvod.com/catvod_com.php?id=Tlc&token=45b33d56c02368f9ecf88492140986910cd1617bca6a240666014facc8e09449%3A1758111448
+
+
+
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",美亞電影台
+http://iptv.4666888.xyz/iptv.php?id=20120
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",美亞電影 Taiwan
+https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=a5a940a22da7fb88dac08b8197c76f7c4d8194487a02c4821c44c8d5c454d7ad%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",星衛電影
+https://live.catvod.com/catvod_com.php?id=xingwei_movie&token=41cce44fc43a377ce7ea4557226b5b453b54532a44dfadb7e92070b3b6c9ca42%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",天映頻道 Taiwan
+https://live.catvod.com/catvod_com.php?id=ctv18_twn&token=63dcd653fc076655c330dd9e7fff321750a909e75b197a37af025392ef1ab96d%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",AXN Taiwan
+https://live.catvod.com/catvod_com.php?id=axn_twn&token=db1f048bd3dbbb34ae312806fb283e7c85ac85a369314e742f8fb91208c9efa3%3A1758111448
+
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Cinemax Taiwan
+https://live.catvod.com/catvod_com.php?id=cinemax_twn&token=d8f10959f5f659a1af58c42103697f95d808143ce06ea901cf8c0b2a5407cc32%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Hollywood Taiwan
+http://iptv.4666888.xyz/iptv.php?id=20248
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",Thrill
+http://iptv.4666888.xyz/iptv.php?id=20259
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",PopC
+https://live.tvfix.org/live/popc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",HBO Hits Taiwan
+https://live.catvod.com/catvod_com.php?id=hbohit_twn&token=4b455f9f80a80bc171b1dbf601e36965ca5b43f231de5f6669615e13945188aa%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",HBO Taiwan
+https://live.catvod.com/catvod_com.php?id=hbohd_twn&token=6096b6ea523f23e1e6f1d39d829bfbdf0d3925d56e7e4802401ba9ff989966d6%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Catchplay電影
+https://live.catvod.com/catvod_com.php?id=catchplay_twn&token=3e0632a895daf73cc9f49e832033651f67d1c7d25cfd045726b7de8dfa1b0f81%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,amc電影
+https://live.catvod.com/catvod_com.php?id=starmoviesgold_twn&token=0f7bb0279c75a1b5ab956cd373313c8ec42fa267093fb72b5cce745d23c645a7%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Cinemax
+https://live.catvod.com/catvod_com.php?id=Cinemax&token=4e50f9ae15dba036334b17e9d546acc95b8c5c96aa6f2eb2ad10fae82d1f48b8%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Animax
+https://live.catvod.com/catvod_com.php?id=Animax&token=e17079e38ba35d2a674f15ccc27db2aa65365df5414d94f5343874386f9655f2%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Movies Now HD
+https://live.catvod.com/catvod_com.php?id=moviesnow_raj&token=70a43d6a681d7da1b1af66aa01b04882042c7bab4de40b87cdfa9c1369ee3e06%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Star Movies HD
+https://live.catvod.com/catvod_com.php?id=starmovies_raj&token=07a0591a080f55705f487f5d376926727945443c29441159ddb9dab17be9c2e4%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,HBO Family
+https://live.catvod.com/catvod_com.php?id=Hbofamily&token=80026ad126023c4f4ba407d6b5756ead39be8244fcd5633fe4e1e2aaa24ed1c7%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Hits
+https://live.catvod.com/catvod_com.php?id=Hits&token=d56bf965eb1b92fd41cd21f798cf7261006c0027cbe95f4b0d4d679767fb0172%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Warner TV
+https://live.catvod.com/catvod_com.php?id=WarnerTV&token=669f28ad4bddd6ba78760c1542788f7b61a594299564306b098c497cddb01401%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,HBO HD
+https://live.catvod.com/catvod_com.php?id=Hbo&token=b6e9e3dc2a7f99d7734dccaf692ad61f7623bec9f685c8c6767bcbefcc969c28%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,HBO Signature
+https://live.catvod.com/catvod_com.php?id=Hbosignature&token=eee50af99429d57136c632573e89c5680a6d3a6876a49ed02caba35d7139efa2%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,HBO Hits
+https://live.catvod.com/catvod_com.php?id=Hbohitshd&token=4efd1a90cf31e0b2cb38d3131d3159a77cf09cbbe2bd059fbe46018ad0697115%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,SCM
+https://live.catvod.com/catvod_com.php?id=Weishimovie&token=89be5c4b6e6a7d53a7cdc3c38efe9a7ba0f2783e1ad6a58fccece4351e72adeb%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Dreamworks
+https://live.catvod.com/catvod_com.php?id=Dreamworks&token=eafeb4e827f78cc9b9ef32191fde2fec3c5eab5ab5a59ec538ca32274fe5e961%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Thrill
+https://live.catvod.com/catvod_com.php?id=Thrill&token=ed2a7d07f21b32b73a4c0eab61eead4c3a93abc16790c5b5854b553c4c4a7146%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Hits Movie
+https://live.catvod.com/catvod_com.php?id=Hitsmovie&token=a3fd6ac5766173f19d986de176cf90890158aac8e15b4e0831d0688ce5eb59cc%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,One
+https://live.catvod.com/catvod_com.php?id=One&token=0cf13e7eda056868e7d289a8edf50c2a7080a9232676f6096c6dbb6c9a842767%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,tvN Movie
+https://live.catvod.com/catvod_com.php?id=Tvnmovie&token=21b0d5adb46e26f652d11f54f4536afb1dcefd1a346b2b27db5f0735de698615%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Celestial Classic
+https://live.catvod.com/catvod_com.php?id=Celestial2&token=7d8aaed7292353476c824fa27873d5ce1ff9db202aa83f17e7578a06f24d4f66%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Celestial Movies HD
+https://live.catvod.com/catvod_com.php?id=Celestialindo&token=7fac9e01b1a9354e58238d62631008e142aed4218c22732108b9b73f7bfde931%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Axn HD
+https://live.catvod.com/catvod_com.php?id=Axn&token=182443f17d51a057a350b0b2afa8b24b4076af398bff6aae49c518ac5d5b0b87%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Paramount Network
+https://live.catvod.com/catvod_com.php?id=Paramountnetwork&token=1d3a05cf04fb7bddc16dfc8b5c2fb0a980599e9b11caaf8e63d610dc5cc2d57a%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Astrol Kplus
+https://live.catvod.com/catvod_com.php?id=Kplus&token=39c3bb1ba178a72c3cb65f36564318d1970cd730525cc64cd6f76eabedf0defa%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Rock Actions
+https://live.catvod.com/catvod_com.php?id=Rockaction&token=33e055d6630b15c095a4cc0d639e907e39f9b9a8ea320d253fd9c15029f810d5%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie,Rock Entertainment
+https://live.catvod.com/catvod_com.php?id=Rockentertain&token=5713c9e9140af54cd494320da4a08b40153e89f59d0005afbce4a78b29894850%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Premier League 1
+https://live.catvod.com/catvod_com.php?id=go_assp1&token=eb0a443ef593252d99170e42228fb67fa67e718bd71ea3ea6df2d4b647f66a72%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro EPL 1 backup
+https://live.catvod.com/catvod_com.php?id=go_assp1x&token=6899652c895394d5803ea0040389b87d72b308bfcf1801454bc60726279704d7%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Premier League 2
+https://live.catvod.com/catvod_com.php?id=go_assp2&token=83547ef7802d34bf9623c1d1a743b8b144ce295fdaf5b5daf20b9e47d5433834%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Grandstand
+https://live.catvod.com/catvod_com.php?id=go_assp3&token=22dc87711328239dd09f8c66596674b1db6e9f753589ab1aec59768d632362f9%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Football
+https://live.catvod.com/catvod_com.php?id=go_assp4&token=9f35f91aeb2ac89794c712152d9720b1cc4e9bd74c7bde89f74459225fd4f42d%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Sports Plus
+https://live.catvod.com/catvod_com.php?id=go_sportsplus&token=0b2cec7ab84620fd05f1ed294b8c2a1dd7aaf4739b136c10301e53299290e9fb%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Badminton 1
+https://live.catvod.com/catvod_com.php?id=go_badminton1&token=78c80ff650f79920e7e95e8fcfa08855c390a4010a1fd912f02cc865ce816e57%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Badminton 2
+https://live.catvod.com/catvod_com.php?id=go_badminton2&token=ce5b179d552cfac35b291cbe93f2cf084e07e1ec1f4030916745aae95de2a5c1%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro W-Sports
+https://live.catvod.com/catvod_com.php?id=go_assp5&token=c24eaac3b1f17a3d879353dd7000cff9750e7c82b37dd840d66fb863ff9c5bcf%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Supersports 1
+https://live.catvod.com/catvod_com.php?id=Assp1&token=e58b70dfc06466de9292e72d7bea68698db80ed174d03ac9dfacff706d6fdedc%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Supersports 2
+https://live.catvod.com/catvod_com.php?id=Assp2&token=1956e81590013253d1c9e587eef113a3f9af6cb66bedd5dbdec0382bac86ec49%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Supersports 3
+https://live.catvod.com/catvod_com.php?id=Assp3&token=210a2642768db829c4f59ae209b4dc33a0d9cc560850cabd208e6c18c1a2014f%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Supersports 4
+https://live.catvod.com/catvod_com.php?id=Assp4&token=6cb98d190fa560c468ad171627e6813f2c974e870731a845008b10a69a5a756e%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",WWE
+https://live.catvod.com/catvod_com.php?id=Wwe&token=0524f06627f33e2acb4c676ab2f1a186f3c07575520bccd96f7e6fd9fff1a201%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Fight Sports
+https://live.catvod.com/catvod_com.php?id=Fs&token=ff5f8497cdf9ea1dd0021945116dd241073d0674285f0f9c9cdebc8290a45bc4%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",NBA TV
+https://live.catvod.com/catvod_com.php?id=Nba&token=e81ff1b5aecd6e80ddc7d03174e335c5db4681107cbc4f11d2831a5dbaa92996%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Cricket
+https://live.catvod.com/catvod_com.php?id=Acricket&token=c367a3eb4d47de4a04e776a627c3410d169b8b45dd391953ae7dcb6d31abb07b%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Golf
+https://live.catvod.com/catvod_com.php?id=Agolf&token=56a42eac4bfef1c6934c5dcc7af8d4a787ab4e7570d701c5fdfa392077b06bb5%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Tnt Sports 1
+https://live.catvod.com/catvod_com.php?id=6fac0aaead&token=faad912a9611eee5fb01fbbc6e5c727bbc9718c9a0e24faa2accd5458b16edf2%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",TNT Sports 2
+https://live.catvod.com/catvod_com.php?id=d9a76a79cc&token=197fe484e5303a93a82b69a9f9d83638f86d9c2e3f0d4ea61ab99be239c05455%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",TNT Sports 3
+https://live.catvod.com/catvod_com.php?id=5fea4d73db&token=b7bfa55a5832f2b7c0648b0c543baa1fbd3fd2949ee75e279cbdd45a5249466f%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",TNT Sports 4
+https://live.catvod.com/catvod_com.php?id=tntsport4&token=bd5aba1a0ed37be16a89a74cb4a7c5b81256ef1e92e63c840956e562c6a326fb%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Sony Ten 1
+https://live.catvod.com/catvod_com.php?id=ten1_raj&token=81882878f997448f20440e6dc222907fa9127ba460fb83ac3c3aa7c3da1402ab%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Sony Ten 2
+https://live.catvod.com/catvod_com.php?id=ten2_raj&token=4d6a460b1f4be2c17138dd1cefe1097183acf58eaf085a2fb5a8c353c879486e%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Sony Ten 3
+https://live.catvod.com/catvod_com.php?id=ten3_raj&token=55648c41d37f909d9ca614fb59855db4afc915b85916e046a2eb767865f40cd0%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",SPOTV 1
+https://live.catvod.com/catvod_com.php?id=go_spotv&token=0353414c210fcf8257fa233651c693a64645808c3d1f7a932d795e1a45fe0db2%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",SPOTV 2
+https://live.catvod.com/catvod_com.php?id=go_spotv2&token=9019a609ba594580a7ebc12e00df45cbd7919c438dd2562692e5c036a3a869a6%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Skysports F1
+https://live.catvod.com/catvod_com.php?id=tiankongf1&token=73d3719bca5c8afc5272d0de41711cfdfe5b6836b9f97a4a3f899398064f0a21%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Skysports Cricket
+https://live.catvod.com/catvod_com.php?id=tiankongcricket&token=18dbd06b761aad5bde03d4968f04213ac76ff08fefffe756c6fd33804e92cb1c%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Skysports EPL
+https://live.catvod.com/catvod_com.php?id=tiankongepl&token=cd9f4b20239df7ac627fbbc3216d16cd43dc6a505a3dc5755fc603d97d4a9be2%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Skysports Main Event
+https://live.catvod.com/catvod_com.php?id=tiankongmain&token=f6e98843b6414304c9e0974a1bc0bc852902b768d6b381737d1b81700fe9fde7%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Skysports News
+https://live.catvod.com/catvod_com.php?id=tiankongnews&token=f17f0d930081ee0f73076fda23027e1a326676e98c1782e761d6543c7e4d68d8%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Skysports Mix
+https://live.catvod.com/catvod_com.php?id=tiankongmix&token=d52b3a9310b8a144a6e50d4b13481d21d7d885a10d2f741d0095dbe1fb090fcc%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",ELTA體育1台
+https://live.catvod.com/catvod_com.php?id=eltasport_twn&token=4bcc0fd59b8da62d1d6ed84b2c926b6b65a334094d379d3dd698ba64880270dd%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",ELTA體育2台
+https://live.catvod.com/catvod_com.php?id=eltasport2_twn&token=e6090c6d14699d2b961d2c3e5bef6a5174e53a1cbc6c9e465cbbf100e4c83e79%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",ELTA體育3台
+https://live.catvod.com/catvod_com.php?id=eltasport3_twn&token=0700f0b8cfcc10b23842473474208e32b6e25654a35a4906777a33fb7d65760c%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",ELTA體育4台
+https://live.catvod.com/catvod_com.php?id=eltasports4_twn&token=2ece5d554d62aa00e3a0494b34e32d14adb3ba7a5e326c85a5ec447450f33e8f%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",小公視
+https://live.catvod.com/catvod_com.php?id=pts3_twn&token=3e95ae604a3b8e1f4c41b7ae5cb8760845da9165f0b41a075d9287ad54f87009%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",DAZN 1
+https://live.catvod.com/catvod_com.php?id=dazn1_twn&token=0f0b156297df6ecf079d0d3298d57fc5fa6d4f35c58c2fff03fe72a55bc3b813%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",DAZN 2
+https://live.catvod.com/catvod_com.php?id=dazn2_twn&token=80943baf47c660bd40a0284d720dd1e9c95b1b7b04161d584b3230f750d34f2b%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Rugby Pass TV
+https://live.catvod.com/catvod_com.php?id=Rugbypasstv&token=1a99393ae8fdaba4d9bf70d53e7dae17504e54651b4ef3564c036048b4f0dd75%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",RTM Sports HD
+https://live.catvod.com/catvod_com.php?id=Rtmsport&token=24ad289d69ddbb93726cfcc2a3b95668fe33708fbf1c47c27c6c8317a8dd2616%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Arena
+https://live.catvod.com/catvod_com.php?id=Arena&token=ab57f1e8b7ed06b50009c479f114373656383e0501dfe5b5b51476845e2ee851%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Arena 2
+https://live.catvod.com/catvod_com.php?id=Arena2&token=fae0cb5c5353b49aaa736feb4ec29af36ca7f972660bb477eb5a4edbc3125577%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",BolaArena 1
+https://live.catvod.com/catvod_com.php?id=Bolaarena1&token=da71b9ea27187d69b45ea16e607e6500abee79c6d2c01f1fa71fd44352d4f6e7%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",BolaArena 2
+https://live.catvod.com/catvod_com.php?id=Bolaarena2&token=7d3077438a3b4670a9502d5102e5e51433f46ad10523d68dbe507bc7bc320751%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Beinsports 1
+https://live.catvod.com/catvod_com.php?id=Astrobein1&token=51e9d12fc4f9d2b996a54d8c880bf0fe72b23512c8169061e0f4fa43332d2984%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Beinsports 2
+https://live.catvod.com/catvod_com.php?id=Astrobein2&token=c443b6b393a13b35746036a421c9c34e05af21a65f8652a2ac2e67d02723ffb8%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Astro Beinsports 3
+https://live.catvod.com/catvod_com.php?id=Astrobein3&token=fed4c4929aee5244ef70a122a6546ae74175232749f844ed67259819460a3af4%3A1758111448
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="America",A&E US Eastern Feed HD
 https://tvpass.org/live/AEEast/hd
