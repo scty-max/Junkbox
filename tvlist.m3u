@@ -614,6 +614,14 @@ http://iptv.4666888.xyz/iptv.php?id=20284
 http://iptv.4666888.xyz/iptv.php?id=20285
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Channel 8
 http://iptv.4666888.xyz/iptv.php?id=20286
+#EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Suria
+https://live.catvod.com/catvod_com.php?id=Suria&token=1af7bf5bcafa65f8c7bcc7eaabe3abf3e824e6b2aa578748235b461b731c1a96%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Vasantham
+https://live.catvod.com/catvod_com.php?id=Vasantham&token=40ce8eb7259ddbec83de2669d47ab9bac5140127b4a6c7d60ceb1ac0b1a567a1%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",ZooMoo Asia
+https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",HUB娛家
 http://iptv.4666888.xyz/iptv.php?id=20287
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",HUB都會
