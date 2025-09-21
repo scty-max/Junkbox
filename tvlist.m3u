@@ -206,17 +206,17 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB無線新聞
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB娛樂新聞台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+https://live.catvod.com/catvod_com.php?id=Tvbentertainment&token=a980f6598bcfe648b282b15068d9ce29f33cb7c9925b3ce04ce2a821adbbe6c8%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB千禧經典
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+https://live.catvod.com/catvod_com.php?id=Tvbclassic&token=fe3b2e8fed35225a9dc2f7891d80fbe5ea036c2d2496d2c89181db4471e1ea22%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB Pearl
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+https://live.catvod.com/catvod_com.php?id=pearl_twn&token=66c2f94e043e7131e3d256d96609a51dcf4b6672d75c2cafa6374a343c6201d7%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
+https://live.catvod.com/catvod_com.php?id=j2_twn&token=7bf659e35ddf732018323a68970293b680a5b2366f28a6fc9a50bed9430bd51b%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB Drama
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW新聞
@@ -686,18 +686,24 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 #EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="ช่อง 8.th" tvg-name="ช่อง 8" tvg-logo="https://media-mvtv.imgix.net/channel/127_y_uhsXzFBxYD6Wq2mpZeIUb4M7RK1ECkn8.png" group-title="Thailand", ช่อง 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",astro歡樂
-http://iptv.4666888.xyz/iptv.php?id=20260
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",astro歡喜
+https://live.catvod.com/catvod_com.php?id=Huahee&token=cc6fab5602ff359db87c9ecd26c120a696e904b145445e3d75dea059d94129d9%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",astro QJ
+https://live.catvod.com/catvod_com.php?id=Quanjia&token=d22cc5d56a0b2d454c68bcfbb829f81120c53ba539ce2d6e1a8665e3b139f6c7%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",astro AEC
+https://live.catvod.com/catvod_com.php?id=Rusi&token=82ff936ea88a919f3e9bb9cc51bd585d4ad3e2e6bc88116a3cf09115dea2b284%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",astro AOD
+https://live.catvod.com/catvod_com.php?id=Sunlife&token=63303b72d74dff15b201ae1a58890505007cb4946eabe5fadeef813068a7b584%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Malaysia" tvg-language="" group-title="Malaysia",八度空間
 http://iptv.4666888.xyz/iptv.php?id=20306
 #EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="Singapore" , Channel News Asia (CNA)
 https://i.mjh.nz/.r/channel-news-asia.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Channel U
-http://iptv.4666888.xyz/iptv.php?id=20284
+https://live.catvod.com/catvod_com.php?id=Mewatch_chU&token=fec13dd5ffa3d5eb4b89afdc0dc5082269d2bc18be9d0edae34e73d38adb1399%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Channel 5
-http://iptv.4666888.xyz/iptv.php?id=20285
+https://live.catvod.com/catvod_com.php?id=Mewatch_ch5&token=aae247397ac76d226a730e7fa9e2367530bb59b5132fe4c5f0514b03ab136b11%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Channel 8
-http://iptv.4666888.xyz/iptv.php?id=20286
+https://live.catvod.com/catvod_com.php?id=Mewatch_ch8&token=5b4dfd7846229755f36ca1151e5a0e016c35d104455b61eed6b29f0ebab47ba8%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Suria
 https://live.catvod.com/catvod_com.php?id=Mewatch_Suria&token=dd44694a9e1fef3ffd23d3fb555e4302c373217fd59f3e0fc66db7d02d510808%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Singapore" tvg-language="" group-title="Singapore",Vasantham
@@ -760,6 +766,8 @@ https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=a5a940a22da7fb88d
 https://live.catvod.com/catvod_com.php?id=xingwei_movie&token=41cce44fc43a377ce7ea4557226b5b453b54532a44dfadb7e92070b3b6c9ca42%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",天映頻道 Taiwan
 https://live.catvod.com/catvod_com.php?id=ctv18_twn&token=63dcd653fc076655c330dd9e7fff321750a909e75b197a37af025392ef1ab96d%3A1758111448
+#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",天映頻道 Malaysia
+https://live.catvod.com/catvod_com.php?id=Astroktv&token=52743c3f4b976154ec039bda1899b5404c7562031daea5342c2f2a0057e51c14%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",CM+
 http://iptv.4666888.xyz/iptv.php?id=20249
 #EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",愛奇藝
