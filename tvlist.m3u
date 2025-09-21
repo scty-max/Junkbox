@@ -197,14 +197,12 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68baf36913fdd796a3319278.m3u
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af98084f7cb66f34d462e0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",욕아방송
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=child_care_540&sid=MCMbs5pnRCoyIVAPtv5g0MRDu11MEoQNUSSpZfsk&secret=706abe245cd1b8483e082c3ee34c19b3&time=1742556877
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 76
-http://iptv.4666888.xyz/iptv.php?id=20077
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 77
-http://iptv.4666888.xyz/iptv.php?id=20078
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 78
-http://iptv.4666888.xyz/iptv.php?id=20079
+hhttps://live.catvod.com/catvod_com.php?id=hoycaijing_twn&token=55c2d902e1c13c9dec33747c36f379150ca106d4fe168e6ff304ef9cf23e3f08%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB無線新聞
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB娛樂新聞台
@@ -215,8 +213,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB Pearl Drama
-http://iptv.4666888.xyz/iptv.php?id=20098
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB Pearl
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB Drama
@@ -224,23 +222,19 @@ https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW新聞
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW爆谷台
-http://iptv.4666888.xyz/iptv.php?id=20087
+http://hkenlive.uk/livehttpplay?channel_id=13002
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",NOW星影台
-http://iptv.4666888.xyz/iptv.php?id=20086
-#EXTINF:-1 tvg-id="" tvg-country="Movie" tvg-language="" group-title="Movie",美亞電影台
-http://iptv.4666888.xyz/iptv.php?id=20120
+http://hkenlive.uk/livehttpplay?channel_id=13003
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV6
 https://live.catvod.com/catvod_com.php?id=viusix_twn&token=077b3591eb7dc817d07bc6f14a99aacdc15334fe8aa598764f946c1e66b46e16%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺31
-http://iptv.4666888.xyz/iptv.php?id=20080
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",新時代1
-http://iptv.4666888.xyz/iptv.php?id=20290
-#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",新時代2
-http://iptv.4666888.xyz/iptv.php?id=20313
+http://tlive24.uk/livehttpplay?channel_id=50208
 #EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Arena
 https://live.catvod.com/catvod_com.php?id=Arena&token=ab57f1e8b7ed06b50009c479f114373656383e0501dfe5b5b51476845e2ee851%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Arena 2
