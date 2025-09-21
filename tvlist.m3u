@@ -131,7 +131,7 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OBS
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OCN
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
+https:/dtttive-edge-th136.myjktv.com/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OCN Movies
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cgv_540&sid=ITjFbSesTCA6lhGQOkb3FkEBcBDIkkRJMIxUQdCp&secret=5d308748415770c93f1f9f0c0ed6e8b6&time=1747425455
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OCN Movies 2
@@ -232,7 +232,7 @@ https://live.catvod.com/catvod_com.php?id=viusix_twn&token=077b3591eb7dc817d07bc
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",新時代1
 http://tlive24.uk/livehttpplay?channel_id=50208
 #EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",Arena
