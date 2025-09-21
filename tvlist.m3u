@@ -324,19 +324,21 @@ https://live.catvod.com/catvod_com.php?id=Wwe&token=0524f06627f33e2acb4c676ab2f1
 #EXTINF:-1 tvg-id="" tvg-country="Sports" tvg-language="" group-title="Sports",小公視
 https://live.catvod.com/catvod_com.php?id=pts3_twn&token=3e95ae604a3b8e1f4c41b7ae5cb8760845da9165f0b41a075d9287ad54f87009%3A1758111448
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS
-http://iptv.4666888.xyz/iptv.php?id=20188
-#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS News
-http://iptv.4666888.xyz/iptv.php?id=20309
+http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS新聞
-http://iptv.4666888.xyz/iptv.php?id=20168
+http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS歡樂
-http://iptv.4666888.xyz/iptv.php?id=20189
+http://152.32.229.52:5050/4gtv-4gtv068/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS ASIA
-http://iptv.4666888.xyz/iptv.php?id=20190
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS綜藝
-http://iptv.4666888.xyz/iptv.php?id=20192
+http://152.32.229.52:5050/4gtv-live087/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS精彩台
+http://152.32.229.52:5050/4gtv-4gtv067/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS台劇
-http://iptv.4666888.xyz/iptv.php?id=20193
+http://152.32.229.52:5050/4gtv-live088/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS食尚玩家
+http://152.32.229.52:5050/ofiii31/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",東森Live
 http://iptv.4666888.xyz/iptv.php?id=20308
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",東森綜合
