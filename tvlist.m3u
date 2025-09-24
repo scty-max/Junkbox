@@ -131,7 +131,7 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OBS
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OCN
-https:/dtttive-edge-th136.myjktv.com/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OCN Movies
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cgv_540&sid=ITjFbSesTCA6lhGQOkb3FkEBcBDIkkRJMIxUQdCp&secret=5d308748415770c93f1f9f0c0ed6e8b6&time=1747425455
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OCN Movies 2
