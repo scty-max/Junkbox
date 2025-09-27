@@ -195,8 +195,12 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68baf36913fdd796a3319278.m3u
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af98084f7cb66f34d462e0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",욕아방송
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=child_care_540&sid=MCMbs5pnRCoyIVAPtv5g0MRDu11MEoQNUSSpZfsk&secret=706abe245cd1b8483e082c3ee34c19b3&time=1742556877
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 76
+https://stream1.freetv.fun/d653b501f60dc37926ba91d98349f9cf6ad22a23a6031a81de910c89682d6e00.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 78
+https://stream1.freetv.fun/646c4bd53a366c59946c345c339ad589b8ee7ab30399af14ff4bb14b33747552.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB無線新聞
@@ -237,6 +241,14 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv076
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1 channel-id="mjh-redbull-tv" tvg-id="mjh-redbull-tv" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="Sports" , Redbull TV
 https://i.mjh.nz/.r/redbull-tv.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Sports",SkySports F1
+https://stream1.freetv.fun/cfaa0b55bd472c64178ea4ee12a0f4c83a7091b687a6858505d34131c22fc387.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Sports",SkySports Main Event
+https://stream1.freetv.fun/f9992b263ce6c95165d499bd0025803c8cd8007345d5271afe6de1eb23cf0cae.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Sports",SkySports Mix
+https://stream1.freetv.fun/84e00e9fae984e56661c3295d50a3d3d920316436d19b7faf44b3e0a770a6be0.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Sports",SkySports Premier League
+https://stream1.freetv.fun/571269862ac9843a1fecb5454a0c516db8e5e2897de28a16010e213e4dae729b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS
 http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",TVBS新聞
@@ -332,10 +344,6 @@ rtmp://f13h.mine.nu/sat/tv721
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai7.png" group-title="Taiwan",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="大爱1台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Daai1.png" group-title="Taiwan",大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Daai2.png" group-title="Taiwan",大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-name="大立电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png" group-title="Taiwan",大立电视台  
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png" group-title="Taiwan",TVBS新闻台
