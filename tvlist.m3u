@@ -211,6 +211,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB千禧經典
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB功夫
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB Pearl
@@ -227,6 +229,10 @@ http://hkenlive.uk/livehttpplay?channel_id=13002
 http://hkenlive.uk/livehttpplay?channel_id=13003
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu TV6
+https://stream1.freetv.fun/f9d9e9b034b05136c560f84790e2b39bd8aef4f9899ac40a59ed9b950ae3a4e9.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",Viu劇集
+https://stream1.freetv.fun/2d662734e0e8d039ab466d56286179bbc14b85a0cec5388d5a63e9ad428f4207.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",香港電臺32
@@ -237,6 +243,8 @@ http://tlive24.uk/livehttpplay?channel_id=50208
 http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
 #EXTINF:-1 tvg-name="CAT电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CatchPlay1.png" group-title="Movie",CAT电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Movie",美亚电影台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="ASTRO AOD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ASTROAOD.png" group-title="Movie",ASTRO AOD
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1 channel-id="mjh-redbull-tv" tvg-id="mjh-redbull-tv" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="Sports" , Redbull TV
@@ -276,18 +284,25 @@ rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="Taiwan",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="Taiwan",中天新闻
+https://stream1.freetv.fun/dc3d00ce128ed004b69c0f097e7387974e77e68e472acf9a85ada5a751eb46a2.ctv
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI3.png" group-title="Taiwan",中天娱乐
+https://stream1.freetv.fun/d7974ca5a14142f630636bda7f6b62d77074f67696959ed05e54eb6fe7f967af.ctv
 #EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="Taiwan",华视新闻
+https://stream1.freetv.fun/ec99f019e75d6edef000fa78440a632a6763ddc1516c1f67acbd3a233f3478e7.ctv
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV1.png" group-title="Taiwan",中视新闻
 #http://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png" group-title="Taiwan",三立新闻
+https://stream1.freetv.fun/51b9ec245cd84f98d9851943814978048ff609bbbb171d5dbe9e63337d64aabd.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Taiwan" tvg-language="" group-title="Taiwan",三立台灣
+https://stream1.freetv.fun/fdb197965a3b4c98c81ca3f2bd305d55b1698b9a91d6db02bc871e1f9314bfe9.ctv
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" group-title="Taiwan",三立综合
 #EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" group-title="Taiwan",三立都会
-#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" group-title="Taiwan",三立戏剧
+#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" group-title="Taiwan",三立戲劇
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" group-title="Taiwan",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png" group-title="Taiwan",寰宇新闻
+http://222.128.55.152:9080/live/hy.m3u8
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" group-title="Taiwan",年代新闻
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="Taiwan",东森新闻
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png" group-title="Taiwan",东森超视
