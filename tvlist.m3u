@@ -276,68 +276,44 @@ rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="Taiwan",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="Taiwan",中天新闻
-https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI3.png" group-title="Taiwan",中天娱乐
-https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 #EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="Taiwan",华视新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv052
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV1.png" group-title="Taiwan",中视新闻
-http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 #http://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png" group-title="Taiwan",三立新闻
-http://live4play.uk/livehttpplay?channel_id=10126
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" group-title="Taiwan",三立综合
-http://live4play.uk/livehttpplay?channel_id=12038
 #EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" group-title="Taiwan",三立都会
-http://live4play.uk/livehttpplay?channel_id=20100
 #EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" group-title="Taiwan",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" group-title="Taiwan",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png" group-title="Taiwan",寰宇新闻
-https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" group-title="Taiwan",年代新闻
-http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="Taiwan",东森新闻
-https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png" group-title="Taiwan",东森超视
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC7.png" group-title="Taiwan",东森财经
-http://live4play.uk/livehttpplay?channel_id=20078
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="Taiwan",东森电影
-http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="Taiwan",东森综合
-http://live4play.uk/livehttpplay?channel_id=20104
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" group-title="Taiwan",东森电影
-http://live4play.uk/livehttpplay?channel_id=20077
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="Taiwan",东森洋片
-http://live4play.uk/livehttpplay?channel_id=20080
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" group-title="Taiwan",东森戏剧
-http://live4play.uk/livehttpplay?channel_id=20072
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/meiyady.png" group-title="Taiwan",美亚电影
 http://ali.hlspull.yximgs.com/live/awei_mydy.flv
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="Taiwan",民视新闻台
-http://live4play.uk/livehttpplay?channel_id=20097
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.cn/tv/民视台湾台.png" group-title="Taiwan",民视台湾台
-https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://live.fanmingming.cn/tv/民视第一台.png" group-title="Taiwan",民视第一台
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://live.fanmingming.cn/tv/民视综艺台.png" group-title="Taiwan",民视综艺台
-http://litv.zapi.us.kg/?id=4gtv-4gtv004
 #EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://live.fanmingming.cn/tv/民视影剧台.png" group-title="Taiwan",民视影剧台
-http://litv.zapi.us.kg/?id=litv-ftv09
 #EXTINF:-1 tvg-id="" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI4.png" group-title="Taiwan",中天亚洲台
-http://livetv.skycf.eu.org/live.m3u8?c=3
 #EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV3.png" group-title="Taiwan",中视菁采
-http://litv.zapi.us.kg/?id=4gtv-4gtv064
 #EXTINF:-1 tvg-id="美亚C+" tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="Taiwan",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/MOMOTV.png" group-title="Taiwan",MOMO TV
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai3.png" group-title="Taiwan",纬来日本
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai3.png" group-title="Taiwan",公視
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai4.png" group-title="Taiwan",纬来电影
-http://live4play.uk/livehttpplay?channel_id=20199
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="Taiwan",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来音乐台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai6.png" group-title="Taiwan",纬来育乐
@@ -346,17 +322,11 @@ rtmp://f13h.mine.nu/sat/tv701
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="大立电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png" group-title="Taiwan",大立电视台  
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png" group-title="Taiwan",TVBS新闻台
-http://61.221.215.25:8800/hls/9/index.m3u8
-#http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS2.png" group-title="Taiwan",TVBS欢乐台
-http://litv.zapi.us.kg/?id=4gtv-4gtv068
 #EXTINF:-1 tvg-name="番薯台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/fanshutv.png" group-title="Taiwan",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" group-title="Taiwan",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png" group-title="Taiwan",八大戏剧台
-http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png" group-title="Taiwan",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV2.png" group-title="Taiwan",龙华洋片
@@ -372,8 +342,6 @@ https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV4.png" group-title="Taiwan",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/GoldenTV9.png" group-title="Taiwan",靖天电影
-http://live4play.uk/livehttpplay?channel_id=12037
-
 #EXTINF:-1 tvg-name="DAZN体育1" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育1.png" group-title="Taiwan",DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="Taiwan",DAZN体育2
