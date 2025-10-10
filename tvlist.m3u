@@ -91,7 +91,7 @@ https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=lRKKRsEIea6l5fePuiqc2V
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Jtbc
-https://manifest.media-delivery.net/jtbc/tracks-v2a1/mono.m3u8?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..B6fmMdKLR_lmXArH.otzmlyjmxp8xgwN-NQBKtpJlLnMnx4cl6LzJcuT9Nz9oLhGXJmL6gY5nmKSJKfOeTHxUMJ_9Opb9cwhRerrkPb7USXB6Pftf5bUjONOGTH5v7V6ONZ0sIwYu1YulGxPVeZbJWkv5-BwyKQdIjUCh5gOHmkwlqFeLU2ZItSvV7VA9DE4n1EFyQmDf-TL78n8UXOZw1FHHhlXlcoKsuj2pjK0EowVrNmwEk872QF5djRGxMJQlURSfNl-m6PvCcW-zHgCKzX2piM8xgWLazAoq25qy2K2qlAWVRgUOgpIH8vP2Jf2cMS8GAtqz_GKRPbryUyrkh1zYn6gwynOgQh1gTic7No9eXnYUlSrfbbww4up81oWKna9kUzMZpY5zJJH_oR50-N_wdy62uAp3AWkzikzicAD1KTY-E-BM_gwozYoLvL0fcUle8WVWASc4JX3Rgha0lVfRdhzZ8tDJTqYMf9-nP_6iX6ccsBp1V-yjXdUTDdg.OZOqvkBPjuHxDZ6mm4jNFg&platformLanguage=en
+https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=oLCCbAAllkuM6hWWRoADsjeQg9hOTawlA7Sv6cwY&secret=a798385204e2b2e39631a082393db901&time=1756036397
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",KBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/681243d3c4027c3e99be8f05.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",KBS 1
