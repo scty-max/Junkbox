@@ -69,7 +69,7 @@ https://i.mjh.nz/.r/sky-news-now.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel A
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channela_540&sid=w36AIjv8rXAQPkq63tbUgyJtJHNWUpwrgGHAuB0s&secret=4e43d23474d1a624e4ee37750fa3b703&time=1747985506
+https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=w36AIjv8rXAQPkq63tbUgyJtJHNWUpwrgGHAuB0s&secret=6407748f3b0bb0cf195072ecf8968288&time=1747985506
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel E
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Comedy TV
@@ -87,7 +87,7 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",EBS+ 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",ENA
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_joy_540&sid=iKEIihWXoTihM2h7Ds1V4v6jxmo5J5QqcwGss8Fm&secret=b5331f4be65a9e7d38f79d8ac30bc2f8&time=1755518566
+https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=iKEIihWXoTihM2h7Ds1V4v6jxmo5J5QqcwGss8Fm&secret=09d5c60cfb15d2a62184ff2a5da92e4f&time=1755518566
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Jtbc
