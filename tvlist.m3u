@@ -160,7 +160,7 @@ https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/pl
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",Yonhapnews
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f065bda46552a55a1c4.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",YTN News
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/67ff92ff8456e969e2fbb934.m3u8?uid=scty-max&pkey=V9fpUdMX
+https://k227.jk-cdn.com/watch/live.m3u8?video=tvn_540&sid=jmEQtrbnzsHMn7WrhZWVMm9zRY9Gp9KZOHmrR7Ng&secret=b938591233cca35f08bc2bff4ed0bdb7&time=1740556944
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",YTN2
 https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",History Channel
