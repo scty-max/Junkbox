@@ -69,7 +69,7 @@ https://i.mjh.nz/.r/sky-news-now.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%
 #EXTINF:-1 tvg-id="ABN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel A
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channela_540&sid=zLhHxUtd4yz2toiohNMEfx63yhemDSOd2xgsFaBV&secret=ad760dc9b77c911e341d5e114e36feff&time=1742500133
+https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=oLCCbAAllkuM6hWWRoADsjeQg9hOTawlA7Sv6cwY&secret=a798385204e2b2e39631a082393db901&time=1756036397
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Channel E
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Comedy TV
@@ -124,8 +124,6 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1358751232.m3u8
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
 #EXTINF:-1 tvg-id="MBN.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
-#EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Mnet
-https://manifest.media-delivery.net/mnet/tracks-v1a1/mono.m3u8?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..hH5hv3gQm-GcNYhL.qVn6horVLPOdhxI6nzlhJ-lJnMNBy23rZV95zr_U7_pDpof6AOrqxV9pGuNsDdiZ9tqDsRrSgBIzTQ7IyxPw6jlxMN4Vm3u6Z178PotuKRF84oQQU03Wf4IIJ_lcWcATacb00XNd8r9WMAMvm2WD-rTWSchQH-SaNMiOZKY4mBYuOJwCv9l3NqMItpQWcVP0tpSGXeIcZAQPJZsN3lcyqEj3a4WJQkh4p7-_BYMeR119dVQHKW86oY5n-K5EAYtdWwxsWVf7OjK5gf4ABD46inl0MwxQhdWgObxwKDmOyse19BQ3dYhRBa6ZVz1GbhktWC7dBF_hcxwnXc8E7OcIqJHjxwb8aoGZorIAiqTehQJJKs9yaLlhi6YlhsYQhQEfxHocTvJCvVeZnfa2oV-PFVthFsprYRWK8UQ2hCQzZsGBKPafmB7LGA-LavYHOR76pblhshgnoDflCAVLfZ88qan_BJ6EnB-gnw3LF66R1oB7WS0.-CEVIUjmvEdwZkSnixzdfw&platformLanguage=en
 #EXTINF:-1 tvg-id="NBS.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",NBS
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",OBS
@@ -154,7 +152,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",tvN
-https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=H2H4gGK6xInXMt8obhR2EdbFn9ncGaSMHJCu36FA&secret=03a1d9b80076132b6ad049e66aa89c5d&time=1747985881
+https://cdn.inteltelevision.com/krcn/106-tvn/playlist.m3u8?t=1760271063&token=cb30668c5fdc010f17126760c2ead2e2
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",WBC
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",Yonhapnews
@@ -207,7 +205,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB生活
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB星河
-http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+https://stream1.freetv.fun/tvbxing-he-1.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB千禧經典
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB武俠
