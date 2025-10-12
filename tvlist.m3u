@@ -204,6 +204,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB娛樂新聞台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB生活
+https://stream1.freetv.fun/f363b689a1afc06a38e97487d77fb3fed17a86256deff21c17089da395b36f77.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB星河
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB千禧經典
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
