@@ -85,11 +85,9 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",EBS+ 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",ENA
-https://k227.jk-cdn.com/playlist/live.m3u8?sid=XqLvnGP2uHdcgMKPqIRYWWnRPHpWnreHdBjfBzVM&secret=ba7521cd4b7a93092d2fa0a8a787b36f&time=1759150564
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Jtbc
-https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_540&sid=Vr9i6N9z5lpmDB7THd4v1mfoetqe2s5aEKL7c0Q0&secret=7c55e19ba2cc67650e51d134b4d6d568&time=1740646737
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",KBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/681243d3c4027c3e99be8f05.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",KBS 1
@@ -143,7 +141,6 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",tvN
-https://k227.jk-cdn.com/playlist/live.m3u8?sid=ZUP0s8oKoPWzNUlhIa9sCDTru1EvGVKJYpS4hWdZ&secret=0d4ea8066de797c43792476efecf0fb7&time=1740557131
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",WBC
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",Yonhapnews
