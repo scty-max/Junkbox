@@ -85,10 +85,11 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",EBS+ 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",ENA
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=XqLvnGP2uHdcgMKPqIRYWWnRPHpWnreHdBjfBzVM&secret=ba7521cd4b7a93092d2fa0a8a787b36f&time=1759150564
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",Jtbc
-https://k227.jk-cdn.com/playlist/live.m3u8?sid=Vr9i6N9z5lpmDB7THd4v1mfoetqe2s5aEKL7c0Q0&secret=127cb0019378faac0938e1bcd82eb353&time=1740646737
+https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_540&sid=Vr9i6N9z5lpmDB7THd4v1mfoetqe2s5aEKL7c0Q0&secret=7c55e19ba2cc67650e51d134b4d6d568&time=1740646737
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",KBS News 24
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/681243d3c4027c3e99be8f05.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",KBS 1
@@ -152,7 +153,6 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/67ff92ff8456e969e2fbb934.m3u
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",YTN2
 https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",History Channel
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=history_540&sid=ktDYnxAlcjz7V3RTfpIGFtr5pGjLTXXbuEqQQTjG&secret=fa393d7a7f8b5c570fa9a02d67e5ddb8&time=1742556221
 #EXTINF:-1 tvg-id="" tvg-country="K-POP" tvg-language="K-POP" group-title="K-POP",THE K-POP
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/680c8f885bda46552a55a1c6.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="K-POP" tvg-language="K-POP" group-title="K-POP",THE K-POP2
@@ -170,9 +170,7 @@ https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af9770f7de788d8bffd858.m3u
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",이데일리
 https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af979475b2a9454d783648.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korean News" tvg-language="Korean" group-title="Korean News",토마토TV
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68baf36913fdd796a3319278.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" group-title="Korea",토마토리빙
-https://api.m3use.projectmoose.xyz/m3u/scty-max/KRN/68af98084f7cb66f34d462e0.m3u8?uid=scty-max&pkey=V9fpUdMX
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 76
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",HoyTV 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
