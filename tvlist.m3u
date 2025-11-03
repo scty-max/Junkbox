@@ -173,7 +173,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",tvN
-https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=N9hcdaQzVUb2TDHkyoqj7NByJHZydzRfEzeW0CYb&secret=8cc71dc3fd8adf31d72d5451ae15d5e5&time=1740556859
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",tvN Movies
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-country="Korea" tvg-language="Korean" group-title="Korea",WBC
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
