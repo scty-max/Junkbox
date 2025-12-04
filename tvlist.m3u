@@ -202,7 +202,7 @@ http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB無線新聞
 https://cdn6.101.qzz.io/163189/wxxw
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB娛樂新聞台
-http://php.jdshipin.com/smt.php?id=Tvbentertainment
+http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB生活
 #EXTINF:-1 tvg-id="" tvg-country="Hong Kong" tvg-language="" group-title="Hong Kong",TVB星河
 http://php.jdshipin.com/smt.php?id=Xinhe
